@@ -1,0 +1,93 @@
+,mean_abs_shap
+Price_gas,0.022157228
+Imbalance netting import,0.020059219
+Imbalance netting export,0.0
+Energy_positive_secondary,0.0
+Energy_negative_secondary,0.0
+Energy_positive_tertiary,0.49970403
+Energy_negative_tertiary,0.0
+CH_dayahead_price,0.15367058
+CH_intraday_price,0.095953785
+renewable_energy,0.01068475
+Cross_border_physical_flows_IT_CH,0.0
+Cross_border_physical_flows_CH_IT,0.0058595957
+Cross_border_physical_flows_FR_CH,0.21383421
+Cross_border_physical_flows_CH_FR,0.005842374
+Cross_border_physical_flows_AT_CH,0.0
+Cross_border_physical_flows_CH_AT,0.0
+Cross_border_physical_flows_DE_CH,0.0
+Cross_border_physical_flows_CH_DE,0.026340224
+Forecast_transfer_capacities_dayahead_IT_CH,0.026173797
+Forecast_transfer_capacities_dayahead_CH_IT,0.0
+Forecast_transfer_capacities_dayahead_FR_CH,0.0
+Forecast_transfer_capacities_dayahead_CH_FR,0.0
+Forecast_transfer_capacities_dayahead_DE_CH,0.0
+Forecast_transfer_capacities_dayahead_CH_DE,0.0
+Forecast_transfer_capacities_dayahead_AT_CH,0.0
+Forecast_transfer_capacities_dayahead_CH_AT,0.0
+aFRR p,0.010449235
+aFRR n,0.0
+mFRR p,0.024199469
+mFRR n,0.0
+FRCE p,0.017026601
+FRCE n,0.018731039
+RR p,0.0
+RR n,0.0
+Total System Imbalance,0.0
+Exchange_CH_AT,0.0
+Exchange_AT_CH,0.0
+Exchange_CH_DE,0.009271929
+Exchange_DE_CH,0.012046014
+Exchange_CH_FR,0.110429086
+Exchange_FR_CH,0.001984554
+Exchange_CH_IT,0.08139592
+Exchange_IT_CH,0.021452295
+day_type,0.0
+Price_positive_secondary_lag1,0.03419972
+Price_negative_secondary_lag1,0.0
+Price_positive_tertiary_lag1,0.41643447
+Price_negative_tertiary_lag1,0.038031522
+Price_gas_lag1,0.0
+Imbalance netting import_lag1,0.0
+Imbalance netting export_lag1,0.0065143416
+Energy_positive_secondary_lag1,0.02763902
+Energy_negative_secondary_lag1,0.013993255
+Energy_positive_tertiary_lag1,0.01673944
+Energy_negative_tertiary_lag1,0.0
+CH_dayahead_price_lag1,0.0492765
+CH_intraday_price_lag1,0.002320562
+renewable_energy_lag1,0.007959254
+Cross_border_physical_flows_IT_CH_lag1,0.0
+Cross_border_physical_flows_CH_IT_lag1,0.0
+Cross_border_physical_flows_FR_CH_lag1,0.0
+Cross_border_physical_flows_CH_FR_lag1,0.0
+Cross_border_physical_flows_AT_CH_lag1,0.0
+Cross_border_physical_flows_CH_AT_lag1,0.0
+Cross_border_physical_flows_DE_CH_lag1,0.0
+Cross_border_physical_flows_CH_DE_lag1,0.07272243
+Forecast_transfer_capacities_dayahead_IT_CH_lag1,0.020397702
+Forecast_transfer_capacities_dayahead_CH_IT_lag1,0.0
+Forecast_transfer_capacities_dayahead_FR_CH_lag1,0.0
+Forecast_transfer_capacities_dayahead_CH_FR_lag1,0.0
+Forecast_transfer_capacities_dayahead_DE_CH_lag1,0.0
+Forecast_transfer_capacities_dayahead_CH_DE_lag1,0.0
+Forecast_transfer_capacities_dayahead_AT_CH_lag1,0.0
+Forecast_transfer_capacities_dayahead_CH_AT_lag1,0.0
+aFRR p_lag1,0.021706538
+aFRR n_lag1,0.0
+mFRR p_lag1,0.010174094
+mFRR n_lag1,0.0
+FRCE p_lag1,0.0072398605
+FRCE n_lag1,0.031389803
+RR p_lag1,0.0
+RR n_lag1,0.0
+Total System Imbalance_lag1,0.037965972
+Exchange_CH_AT_lag1,0.0
+Exchange_AT_CH_lag1,0.008339485
+Exchange_CH_DE_lag1,0.0
+Exchange_DE_CH_lag1,0.017119294
+Exchange_CH_FR_lag1,0.031944662
+Exchange_FR_CH_lag1,0.0
+Exchange_CH_IT_lag1,0.0070657944
+Exchange_IT_CH_lag1,0.0
+day_type_lag1,0.0

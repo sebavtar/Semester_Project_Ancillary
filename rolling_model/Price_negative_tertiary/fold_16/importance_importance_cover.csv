@@ -1,0 +1,49 @@
+,0
+CH_dayahead_price_lag1,19.72014045715332
+Cross_border_physical_flows_CH_AT_lag1,16.245296478271484
+CH_intraday_price,13.870170593261719
+RR n_lag1,13.81313705444336
+CH_dayahead_price,13.807132720947266
+Exchange_CH_FR,12.856277465820312
+Energy_positive_tertiary_lag1,12.286530494689941
+Energy_negative_tertiary,12.075654029846191
+Imbalance netting export,10.004231452941895
+Cross_border_physical_flows_CH_IT_lag1,9.78287124633789
+mFRR n_lag1,9.484073638916016
+Exchange_CH_IT_lag1,8.93484878540039
+Energy_negative_secondary_lag1,8.894218444824219
+Cross_border_physical_flows_CH_IT,8.818086624145508
+Cross_border_physical_flows_FR_CH_lag1,8.375121116638184
+Price_positive_secondary_lag1,8.201563835144043
+Cross_border_physical_flows_AT_CH_lag1,8.170451164245605
+Exchange_CH_DE,7.762940883636475
+Exchange_IT_CH_lag1,7.7499566078186035
+Cross_border_physical_flows_DE_CH_lag1,7.475464820861816
+Exchange_IT_CH,7.0210137367248535
+Price_negative_secondary_lag1,6.888422966003418
+Price_negative_tertiary_lag1,6.486949920654297
+Forecast_transfer_capacities_dayahead_DE_CH,6.291749954223633
+FRCE p_lag1,6.224016189575195
+Energy_negative_secondary,6.184292316436768
+Energy_positive_secondary,6.116450309753418
+Exchange_FR_CH_lag1,5.483476638793945
+Exchange_CH_DE_lag1,5.460594177246094
+Cross_border_physical_flows_DE_CH,5.111831188201904
+aFRR n_lag1,4.948951721191406
+Exchange_DE_CH_lag1,4.945469856262207
+Total System Imbalance,4.789172172546387
+renewable_energy,4.609089374542236
+Total System Imbalance_lag1,4.362593173980713
+Exchange_CH_FR_lag1,4.344285488128662
+Cross_border_physical_flows_AT_CH,3.96480393409729
+Cross_border_physical_flows_FR_CH,3.9609129428863525
+Energy_negative_tertiary_lag1,3.688077688217163
+Energy_positive_secondary_lag1,3.4424500465393066
+Forecast_transfer_capacities_dayahead_CH_IT_lag1,3.4043421745300293
+Exchange_FR_CH,3.109997034072876
+Exchange_AT_CH_lag1,3.051271915435791
+Exchange_CH_IT,2.752805233001709
+aFRR p_lag1,2.5531837940216064
+Exchange_AT_CH,2.390247106552124
+mFRR p,2.355264186859131
+FRCE p,2.2132568359375

@@ -1,0 +1,49 @@
+,0
+CH_intraday_price,17.199678421020508
+Price_gas_lag1,15.247681617736816
+aFRR p_lag1,12.297076225280762
+Price_gas,11.877828598022461
+Energy_positive_tertiary,11.435001373291016
+Energy_negative_secondary_lag1,11.023666381835938
+mFRR p,11.019420623779297
+Forecast_transfer_capacities_dayahead_CH_DE,10.83155632019043
+Exchange_CH_AT_lag1,10.812289237976074
+Forecast_transfer_capacities_dayahead_CH_IT_lag1,9.584471702575684
+Exchange_DE_CH,9.521370887756348
+Exchange_CH_AT,9.057470321655273
+Total System Imbalance_lag1,8.600497245788574
+Cross_border_physical_flows_CH_DE,8.212723731994629
+Exchange_CH_IT,8.067755699157715
+Imbalance netting export,7.883387565612793
+Exchange_DE_CH_lag1,7.697968482971191
+Energy_negative_tertiary,6.959194183349609
+Exchange_CH_FR,6.6656999588012695
+Exchange_AT_CH_lag1,6.591516971588135
+renewable_energy_lag1,6.4473772048950195
+Forecast_transfer_capacities_dayahead_DE_CH_lag1,6.286777496337891
+Exchange_IT_CH_lag1,5.9850945472717285
+Energy_positive_tertiary_lag1,5.887856483459473
+Cross_border_physical_flows_AT_CH_lag1,5.783276081085205
+FRCE p,5.035204887390137
+Exchange_CH_DE_lag1,4.73290491104126
+Exchange_CH_IT_lag1,4.545319080352783
+Exchange_AT_CH,4.40541410446167
+aFRR n,4.206980228424072
+aFRR p,3.9597911834716797
+renewable_energy,3.8586578369140625
+Exchange_CH_DE,3.6811842918395996
+Imbalance netting import,3.5755999088287354
+Energy_positive_secondary,3.5303244590759277
+Energy_positive_secondary_lag1,3.5299184322357178
+Price_positive_tertiary_lag1,3.500422239303589
+Exchange_IT_CH,3.4301633834838867
+FRCE p_lag1,3.2459828853607178
+Energy_negative_secondary,3.088513135910034
+Cross_border_physical_flows_CH_IT_lag1,2.9870152473449707
+Exchange_FR_CH_lag1,2.9366226196289062
+Imbalance netting import_lag1,2.821955919265747
+Cross_border_physical_flows_CH_DE_lag1,2.5718133449554443
+CH_dayahead_price,2.550544261932373
+CH_dayahead_price_lag1,2.446660280227661
+Total System Imbalance,2.3615612983703613
+Price_positive_secondary_lag1,2.238255023956299

@@ -1,0 +1,28 @@
+,0
+Imbalance netting import_lag1,6.207416534423828
+FRCE p_lag1,4.297391414642334
+Forecast_transfer_capacities_dayahead_CH_IT_lag1,4.033797264099121
+Energy_negative_tertiary,3.8356893062591553
+Price_negative_secondary_lag1,3.576089382171631
+Exchange_IT_CH,3.3567304611206055
+Forecast_transfer_capacities_dayahead_DE_CH_lag1,3.0436325073242188
+Exchange_CH_AT,1.8122718334197998
+Total System Imbalance,1.65506911277771
+CH_dayahead_price_lag1,1.4291858673095703
+Cross_border_physical_flows_CH_AT_lag1,1.3714513778686523
+Price_gas,1.1977286338806152
+Forecast_transfer_capacities_dayahead_CH_FR_lag1,1.1751097440719604
+Imbalance netting import,1.1655563116073608
+Forecast_transfer_capacities_dayahead_DE_CH,1.1339682340621948
+Energy_negative_secondary_lag1,0.9125885963439941
+FRCE p,0.8850418329238892
+Exchange_IT_CH_lag1,0.8082323670387268
+Exchange_FR_CH_lag1,0.6784470677375793
+Cross_border_physical_flows_CH_AT,0.41370058059692383
+Price_gas_lag1,0.29309070110321045
+Forecast_transfer_capacities_dayahead_AT_CH_lag1,0.26543086767196655
+Cross_border_physical_flows_DE_CH_lag1,0.25460147857666016
+Energy_positive_secondary,0.1820191740989685
+renewable_energy,0.06865429878234863
+Exchange_CH_DE,0.06642892956733704
+Cross_border_physical_flows_CH_DE,0.01777935028076172

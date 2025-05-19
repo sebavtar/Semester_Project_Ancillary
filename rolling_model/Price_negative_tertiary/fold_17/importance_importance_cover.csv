@@ -1,0 +1,47 @@
+,0
+Price_positive_secondary_lag1,15.054744720458984
+Price_negative_tertiary_lag1,14.209274291992188
+Energy_negative_tertiary,10.9879732131958
+CH_intraday_price,10.782221794128418
+renewable_energy_lag1,9.752018928527832
+Energy_negative_secondary_lag1,9.710392951965332
+Cross_border_physical_flows_CH_IT_lag1,8.232305526733398
+FRCE p_lag1,8.057053565979004
+Cross_border_physical_flows_CH_AT,7.977963447570801
+Exchange_AT_CH,7.867764472961426
+Forecast_transfer_capacities_dayahead_CH_IT_lag1,7.788530349731445
+mFRR n_lag1,7.4974470138549805
+Cross_border_physical_flows_CH_IT,7.057003974914551
+Forecast_transfer_capacities_dayahead_IT_CH_lag1,6.916386127471924
+aFRR n_lag1,6.870186805725098
+Exchange_CH_DE_lag1,6.861491680145264
+Price_positive_tertiary_lag1,6.779957294464111
+Price_negative_secondary_lag1,6.0297932624816895
+Price_gas_lag1,5.978573322296143
+Forecast_transfer_capacities_dayahead_DE_CH_lag1,5.786354064941406
+Energy_negative_secondary,5.770348072052002
+Cross_border_physical_flows_FR_CH_lag1,5.767602443695068
+Imbalance netting export_lag1,5.400883197784424
+renewable_energy,5.375883102416992
+CH_dayahead_price,5.2007317543029785
+mFRR n,4.793901443481445
+Forecast_transfer_capacities_dayahead_CH_AT,4.681863784790039
+Exchange_CH_IT_lag1,4.6493000984191895
+Cross_border_physical_flows_AT_CH_lag1,4.524580001831055
+Imbalance netting export,4.507565975189209
+Exchange_CH_DE,4.0507493019104
+FRCE p,3.9499073028564453
+Cross_border_physical_flows_FR_CH,3.8927669525146484
+Energy_negative_tertiary_lag1,3.8733773231506348
+Exchange_CH_FR_lag1,3.7528514862060547
+Total System Imbalance_lag1,3.5966992378234863
+aFRR n,3.56916880607605
+Exchange_DE_CH,3.409086227416992
+Cross_border_physical_flows_CH_DE,3.1148681640625
+Exchange_DE_CH_lag1,3.051950693130493
+Cross_border_physical_flows_AT_CH,2.9285542964935303
+Exchange_IT_CH_lag1,2.8206682205200195
+Forecast_transfer_capacities_dayahead_CH_IT,2.6781163215637207
+Total System Imbalance,2.24771785736084
+Cross_border_physical_flows_DE_CH_lag1,2.218583583831787
+Exchange_FR_CH_lag1,2.14333176612854

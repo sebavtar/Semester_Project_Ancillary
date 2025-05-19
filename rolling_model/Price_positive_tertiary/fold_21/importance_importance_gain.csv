@@ -1,0 +1,49 @@
+,0
+Energy_positive_secondary_lag1,17.53097915649414
+CH_intraday_price,12.500380516052246
+Energy_positive_tertiary,4.077918529510498
+mFRR p,3.438258409500122
+renewable_energy_lag1,3.1144044399261475
+Energy_negative_tertiary,2.8352298736572266
+Price_gas_lag1,2.7076704502105713
+renewable_energy,2.6891775131225586
+Energy_positive_tertiary_lag1,2.5183730125427246
+Total System Imbalance_lag1,2.5019731521606445
+Exchange_CH_IT_lag1,2.1946473121643066
+Exchange_IT_CH_lag1,2.080845594406128
+Cross_border_physical_flows_AT_CH_lag1,2.0629825592041016
+FRCE p_lag1,1.8858857154846191
+Cross_border_physical_flows_CH_DE,1.8216348886489868
+Forecast_transfer_capacities_dayahead_CH_IT_lag1,1.8120161294937134
+Exchange_CH_IT,1.6597321033477783
+Energy_negative_secondary_lag1,1.6192059516906738
+Imbalance netting export,1.617321252822876
+Exchange_CH_AT,1.3731294870376587
+Exchange_IT_CH,1.326954960823059
+Exchange_AT_CH_lag1,1.3058847188949585
+Exchange_CH_FR,1.2798848152160645
+aFRR p_lag1,1.2380995750427246
+Exchange_DE_CH_lag1,1.0609643459320068
+Price_gas,0.8197740912437439
+Energy_positive_secondary,0.7804874181747437
+Exchange_CH_AT_lag1,0.7422447204589844
+aFRR n,0.7260568141937256
+Total System Imbalance,0.6410310864448547
+FRCE p,0.6292282342910767
+Exchange_FR_CH_lag1,0.5475165247917175
+Exchange_CH_DE,0.5026071071624756
+Price_positive_tertiary_lag1,0.4993005692958832
+Cross_border_physical_flows_CH_IT_lag1,0.4641573429107666
+aFRR p,0.45866289734840393
+Forecast_transfer_capacities_dayahead_CH_DE,0.4516172409057617
+Exchange_AT_CH,0.44604286551475525
+Imbalance netting import,0.43504205346107483
+Forecast_transfer_capacities_dayahead_DE_CH_lag1,0.3667907118797302
+Exchange_CH_DE_lag1,0.3524763882160187
+Price_positive_secondary_lag1,0.3243904411792755
+CH_dayahead_price_lag1,0.31927087903022766
+Energy_negative_secondary,0.19537971913814545
+CH_dayahead_price,0.19519267976284027
+Cross_border_physical_flows_CH_DE_lag1,0.19243931770324707
+Imbalance netting import_lag1,0.16946864128112793
+Exchange_DE_CH,0.1627146452665329

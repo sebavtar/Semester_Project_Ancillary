@@ -1,0 +1,48 @@
+,0
+Total System Imbalance_lag1,23.254676818847656
+Price_negative_tertiary_lag1,22.331567764282227
+Exchange_AT_CH,18.847408294677734
+Cross_border_physical_flows_CH_DE,17.023223876953125
+Energy_negative_tertiary,13.81641674041748
+Exchange_AT_CH_lag1,13.720562934875488
+mFRR n_lag1,13.358530044555664
+mFRR n,13.277362823486328
+Cross_border_physical_flows_AT_CH_lag1,13.260641098022461
+Price_negative_secondary_lag1,12.566957473754883
+FRCE p_lag1,10.660799980163574
+Imbalance netting import,9.775615692138672
+renewable_energy,9.116743087768555
+Forecast_transfer_capacities_dayahead_AT_CH_lag1,8.919931411743164
+Cross_border_physical_flows_AT_CH,8.613753318786621
+Energy_negative_tertiary_lag1,8.582575798034668
+Forecast_transfer_capacities_dayahead_CH_IT_lag1,8.281399726867676
+Exchange_FR_CH_lag1,7.729312896728516
+CH_dayahead_price,7.589156627655029
+Exchange_CH_IT,7.391808032989502
+CH_intraday_price_lag1,6.268549919128418
+Energy_positive_tertiary,5.96541166305542
+Total System Imbalance,5.869722366333008
+aFRR n,5.402501106262207
+FRCE n,5.39068603515625
+Imbalance netting export,5.288950443267822
+Price_positive_secondary_lag1,5.241636753082275
+Exchange_IT_CH_lag1,5.092125415802002
+Forecast_transfer_capacities_dayahead_CH_DE,5.066776275634766
+Energy_negative_secondary,4.958863258361816
+Exchange_FR_CH,4.468108177185059
+Forecast_transfer_capacities_dayahead_CH_IT,4.454267501831055
+Energy_positive_secondary,4.352652072906494
+CH_intraday_price,4.313456058502197
+renewable_energy_lag1,3.782177686691284
+Exchange_CH_AT_lag1,3.6575567722320557
+Exchange_CH_DE,3.6007137298583984
+Exchange_IT_CH,3.269299268722534
+Energy_positive_secondary_lag1,3.2625439167022705
+Cross_border_physical_flows_DE_CH,3.197692632675171
+Exchange_CH_FR_lag1,3.1866369247436523
+Forecast_transfer_capacities_dayahead_IT_CH,2.855975389480591
+Exchange_DE_CH,2.7696940898895264
+Exchange_CH_FR,2.565096139907837
+Energy_positive_tertiary_lag1,2.5174922943115234
+aFRR n_lag1,2.1760668754577637
+Exchange_DE_CH_lag1,2.1474623680114746

@@ -1,0 +1,49 @@
+,0
+Energy_positive_secondary,18.288349151611328
+CH_dayahead_price,4.586902618408203
+Forecast_transfer_capacities_dayahead_CH_FR_lag1,3.5831234455108643
+Exchange_CH_FR,3.2114815711975098
+Exchange_IT_CH,2.9396188259124756
+Price_negative_secondary_lag1,2.573681354522705
+Price_positive_secondary_lag1,2.564873695373535
+Energy_positive_secondary_lag1,2.492159605026245
+CH_intraday_price,2.26564884185791
+Exchange_CH_IT_lag1,2.244657516479492
+CH_intraday_price_lag1,1.9525285959243774
+Forecast_transfer_capacities_dayahead_CH_IT,1.6978836059570312
+Forecast_transfer_capacities_dayahead_CH_FR,1.6642028093338013
+Exchange_CH_DE_lag1,1.6433619260787964
+mFRR p_lag1,1.596360683441162
+Energy_negative_tertiary_lag1,1.5591994524002075
+Price_gas,1.4536794424057007
+Total System Imbalance_lag1,1.2701717615127563
+Exchange_DE_CH,1.2629977464675903
+FRCE n_lag1,1.2286128997802734
+Forecast_transfer_capacities_dayahead_DE_CH,1.1464139223098755
+RR p_lag1,1.1155245304107666
+Exchange_FR_CH,1.1126623153686523
+Price_negative_tertiary_lag1,1.033172369003296
+Forecast_transfer_capacities_dayahead_AT_CH,0.8874012231826782
+Imbalance netting import_lag1,0.8869401812553406
+Energy_negative_tertiary,0.8439037799835205
+Exchange_CH_DE,0.751330554485321
+FRCE p,0.7227832674980164
+aFRR p,0.6362488865852356
+Imbalance netting import,0.6281570792198181
+aFRR n,0.5966945290565491
+Cross_border_physical_flows_CH_IT,0.5891247391700745
+Exchange_CH_FR_lag1,0.5859891772270203
+Cross_border_physical_flows_CH_FR,0.5407912731170654
+FRCE n,0.4710902273654938
+Cross_border_physical_flows_AT_CH,0.415017306804657
+Exchange_FR_CH_lag1,0.4100857377052307
+renewable_energy_lag1,0.4043794870376587
+Exchange_CH_IT,0.36690083146095276
+Exchange_IT_CH_lag1,0.3303232192993164
+Exchange_CH_AT_lag1,0.3234614133834839
+Exchange_AT_CH_lag1,0.2263851761817932
+FRCE p_lag1,0.20698267221450806
+Cross_border_physical_flows_DE_CH,0.18525613844394684
+Total System Imbalance,0.14026474952697754
+Forecast_transfer_capacities_dayahead_DE_CH_lag1,0.08679261058568954
+renewable_energy,0.08201688528060913

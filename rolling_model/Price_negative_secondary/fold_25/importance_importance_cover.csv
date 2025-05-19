@@ -1,0 +1,62 @@
+,0
+CH_dayahead_price_lag1,26.770614624023438
+CH_intraday_price_lag1,18.338102340698242
+Price_negative_tertiary_lag1,17.984146118164062
+CH_intraday_price,15.9821138381958
+Exchange_IT_CH,15.36176872253418
+Energy_negative_secondary,14.424781799316406
+mFRR n,13.8147554397583
+Imbalance netting export_lag1,13.326116561889648
+renewable_energy_lag1,12.11742877960205
+Cross_border_physical_flows_AT_CH_lag1,11.963976860046387
+Cross_border_physical_flows_CH_DE_lag1,11.443047523498535
+Cross_border_physical_flows_DE_CH,11.168414115905762
+Exchange_CH_DE,10.90328598022461
+Price_negative_secondary_lag1,10.605956077575684
+FRCE p_lag1,10.216055870056152
+Energy_negative_tertiary_lag1,9.652920722961426
+Cross_border_physical_flows_CH_IT,9.467591285705566
+Price_positive_secondary_lag1,8.227962493896484
+FRCE p,8.044419288635254
+Energy_negative_tertiary,7.897627830505371
+Energy_positive_secondary,7.883450031280518
+Forecast_transfer_capacities_dayahead_DE_CH_lag1,7.6764984130859375
+Exchange_IT_CH_lag1,7.666865825653076
+Cross_border_physical_flows_CH_IT_lag1,7.51446533203125
+Cross_border_physical_flows_DE_CH_lag1,7.325382232666016
+day_type_lag1,6.875393867492676
+Exchange_CH_FR,6.657254695892334
+Price_gas_lag1,6.5806097984313965
+Forecast_transfer_capacities_dayahead_CH_AT_lag1,6.561903476715088
+Energy_positive_tertiary,6.549163341522217
+Forecast_transfer_capacities_dayahead_CH_IT,6.447265148162842
+Energy_positive_secondary_lag1,6.038971900939941
+aFRR n_lag1,5.9427361488342285
+Total System Imbalance_lag1,5.880627155303955
+Imbalance netting export,5.694466590881348
+Imbalance netting import,5.594223976135254
+Exchange_CH_IT_lag1,5.540070533752441
+Forecast_transfer_capacities_dayahead_CH_IT_lag1,5.476641654968262
+CH_dayahead_price,5.223862171173096
+Exchange_FR_CH,5.160539150238037
+renewable_energy,5.088476657867432
+Cross_border_physical_flows_AT_CH,4.982994556427002
+aFRR n,4.918586730957031
+Cross_border_physical_flows_FR_CH,4.842928886413574
+Total System Imbalance,4.535992622375488
+mFRR p,4.277266502380371
+Energy_negative_secondary_lag1,4.234838485717773
+Exchange_FR_CH_lag1,3.7988498210906982
+Exchange_CH_DE_lag1,3.6451456546783447
+Forecast_transfer_capacities_dayahead_CH_FR,3.5104920864105225
+Forecast_transfer_capacities_dayahead_IT_CH_lag1,3.4514968395233154
+Exchange_DE_CH_lag1,3.392202377319336
+Exchange_CH_FR_lag1,3.3588619232177734
+Exchange_AT_CH_lag1,3.2682876586914062
+Exchange_DE_CH,3.2521238327026367
+Exchange_CH_AT,3.242300033569336
+Exchange_CH_AT_lag1,3.08762788772583
+Exchange_CH_IT,2.875600576400757
+Forecast_transfer_capacities_dayahead_IT_CH,2.5988123416900635
+Cross_border_physical_flows_CH_AT,2.311784267425537
+mFRR n_lag1,2.1088368892669678

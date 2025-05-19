@@ -1,0 +1,50 @@
+,0
+Forecast_transfer_capacities_dayahead_DE_CH,23.357227325439453
+Cross_border_physical_flows_AT_CH_lag1,20.97511863708496
+mFRR p_lag1,19.444812774658203
+Energy_negative_tertiary,17.165884017944336
+Cross_border_physical_flows_AT_CH,16.833253860473633
+Energy_negative_tertiary_lag1,14.168116569519043
+Forecast_transfer_capacities_dayahead_CH_IT_lag1,12.463618278503418
+Price_negative_tertiary_lag1,11.973979949951172
+Exchange_AT_CH_lag1,11.540736198425293
+Imbalance netting export_lag1,11.504988670349121
+mFRR n_lag1,11.276229858398438
+Price_positive_secondary_lag1,11.156309127807617
+Energy_positive_secondary,10.848159790039062
+renewable_energy_lag1,10.808334350585938
+Energy_positive_tertiary_lag1,10.693060874938965
+Imbalance netting import,10.559501647949219
+Exchange_AT_CH,9.754263877868652
+renewable_energy,8.129792213439941
+CH_intraday_price,7.3550214767456055
+Price_positive_tertiary_lag1,7.102858543395996
+aFRR n,6.76746129989624
+Forecast_transfer_capacities_dayahead_AT_CH_lag1,6.463476657867432
+CH_dayahead_price_lag1,5.786873817443848
+Energy_negative_secondary_lag1,5.780402183532715
+Exchange_FR_CH_lag1,5.75716495513916
+Imbalance netting import_lag1,5.7089409828186035
+mFRR n,5.675948619842529
+CH_dayahead_price,5.384348392486572
+Exchange_IT_CH,5.304530620574951
+Exchange_CH_IT,4.889669418334961
+Energy_positive_tertiary,4.596712112426758
+Cross_border_physical_flows_FR_CH_lag1,4.545130252838135
+Imbalance netting export,4.291092872619629
+Price_negative_secondary_lag1,4.165416240692139
+FRCE n,3.86319637298584
+Exchange_DE_CH_lag1,3.600642204284668
+CH_intraday_price_lag1,3.5234808921813965
+FRCE p_lag1,3.3926830291748047
+aFRR p,3.390268087387085
+FRCE p,2.979905843734741
+Cross_border_physical_flows_DE_CH,2.902045965194702
+Exchange_CH_FR_lag1,2.7280988693237305
+aFRR n_lag1,2.5155935287475586
+Energy_negative_secondary,2.4971959590911865
+Exchange_CH_DE,2.4491565227508545
+Energy_positive_secondary_lag1,2.373514175415039
+Exchange_IT_CH_lag1,2.100574254989624
+Cross_border_physical_flows_CH_IT_lag1,2.0720903873443604
+Exchange_DE_CH,2.0528228282928467

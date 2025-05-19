@@ -1,0 +1,48 @@
+,0
+mFRR p,15.129831314086914
+Energy_positive_secondary,14.19485092163086
+CH_dayahead_price_lag1,11.899452209472656
+Price_gas,10.399983406066895
+CH_dayahead_price,9.753144264221191
+Forecast_transfer_capacities_dayahead_AT_CH_lag1,9.241899490356445
+Price_gas_lag1,9.220940589904785
+Energy_positive_secondary_lag1,8.210188865661621
+Exchange_IT_CH_lag1,7.492913722991943
+Price_positive_secondary_lag1,6.9594292640686035
+Exchange_DE_CH,6.4773640632629395
+Forecast_transfer_capacities_dayahead_DE_CH_lag1,5.908895969390869
+Price_negative_secondary_lag1,5.898235321044922
+Imbalance netting import,5.622224807739258
+renewable_energy,5.471302032470703
+Cross_border_physical_flows_CH_IT_lag1,5.307715892791748
+Exchange_CH_DE_lag1,4.887447834014893
+Exchange_AT_CH,4.793068885803223
+Cross_border_physical_flows_FR_CH,4.771694183349609
+FRCE p_lag1,4.73067569732666
+Exchange_CH_DE,4.677373886108398
+CH_intraday_price,4.468699932098389
+Cross_border_physical_flows_AT_CH,4.459057807922363
+Total System Imbalance,4.311495780944824
+Total System Imbalance_lag1,4.245144367218018
+Cross_border_physical_flows_FR_CH_lag1,4.069246292114258
+aFRR n,3.9007105827331543
+Exchange_FR_CH,3.7973122596740723
+Cross_border_physical_flows_AT_CH_lag1,3.744389295578003
+aFRR n_lag1,3.576038122177124
+Energy_positive_tertiary,3.507685422897339
+Exchange_CH_AT_lag1,3.46089506149292
+Cross_border_physical_flows_CH_AT,3.337477922439575
+Exchange_DE_CH_lag1,3.2435381412506104
+Energy_negative_tertiary,3.2213802337646484
+Exchange_CH_IT_lag1,3.201955556869507
+renewable_energy_lag1,3.183279275894165
+Forecast_transfer_capacities_dayahead_DE_CH,3.1002614498138428
+Imbalance netting import_lag1,3.0877838134765625
+mFRR p_lag1,2.982666254043579
+Exchange_CH_FR_lag1,2.928649663925171
+Exchange_CH_IT,2.7285232543945312
+Cross_border_physical_flows_DE_CH_lag1,2.4981656074523926
+Forecast_transfer_capacities_dayahead_CH_IT,2.2277612686157227
+Cross_border_physical_flows_CH_DE,2.1884353160858154
+Energy_negative_secondary,2.1738924980163574
+Exchange_CH_FR,2.1554980278015137

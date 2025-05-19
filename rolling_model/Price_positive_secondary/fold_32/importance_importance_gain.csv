@@ -1,0 +1,51 @@
+,0
+Energy_positive_secondary,17.27935218811035
+Price_positive_secondary_lag1,12.041041374206543
+Imbalance netting export_lag1,7.267216682434082
+CH_intraday_price_lag1,6.222111225128174
+Forecast_transfer_capacities_dayahead_CH_IT,4.151867389678955
+CH_intraday_price,4.068778038024902
+mFRR p_lag1,3.5200698375701904
+Forecast_transfer_capacities_dayahead_CH_AT_lag1,2.7944488525390625
+Cross_border_physical_flows_CH_DE,2.5676047801971436
+Price_gas,2.1949539184570312
+Forecast_transfer_capacities_dayahead_DE_CH_lag1,1.9824645519256592
+Exchange_CH_AT,1.3336026668548584
+Cross_border_physical_flows_AT_CH,1.1721479892730713
+Price_positive_tertiary_lag1,1.126214623451233
+mFRR p,1.123639464378357
+Forecast_transfer_capacities_dayahead_CH_IT_lag1,1.0684117078781128
+Price_negative_tertiary_lag1,1.053416132926941
+FRCE n_lag1,1.0515947341918945
+Energy_negative_secondary_lag1,1.0296614170074463
+renewable_energy,0.969724178314209
+aFRR p,0.9510636329650879
+Exchange_IT_CH_lag1,0.9344258308410645
+Cross_border_physical_flows_CH_IT_lag1,0.8349169492721558
+Exchange_CH_IT_lag1,0.8343860507011414
+aFRR n,0.7873210906982422
+Price_negative_secondary_lag1,0.7760342359542847
+Imbalance netting import,0.7267544865608215
+Energy_positive_secondary_lag1,0.7050663232803345
+Energy_positive_tertiary,0.6940090656280518
+Price_gas_lag1,0.6851887702941895
+Cross_border_physical_flows_CH_FR,0.676153838634491
+renewable_energy_lag1,0.6204718947410583
+Forecast_transfer_capacities_dayahead_CH_FR,0.6179825067520142
+FRCE n,0.6119699478149414
+Exchange_CH_DE,0.5863447189331055
+Energy_negative_secondary,0.5541986227035522
+Exchange_FR_CH_lag1,0.5455173254013062
+Exchange_CH_FR_lag1,0.46169278025627136
+Exchange_AT_CH,0.4321213960647583
+Exchange_CH_IT,0.4011373519897461
+Total System Imbalance,0.38959330320358276
+Exchange_IT_CH,0.38291633129119873
+Imbalance netting import_lag1,0.36422207951545715
+CH_dayahead_price_lag1,0.3497825264930725
+Exchange_DE_CH,0.3387960195541382
+CH_dayahead_price,0.26808327436447144
+Exchange_AT_CH_lag1,0.10992175340652466
+Total System Imbalance_lag1,0.10831069946289062
+aFRR n_lag1,0.06863033771514893
+Energy_positive_tertiary_lag1,0.027759194374084473

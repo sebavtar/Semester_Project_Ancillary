@@ -1,0 +1,52 @@
+,0
+CH_dayahead_price_lag1,30.574623107910156
+Energy_positive_tertiary,8.717609405517578
+Price_positive_tertiary_lag1,5.204699993133545
+Exchange_CH_DE,4.843206882476807
+Cross_border_physical_flows_CH_DE_lag1,3.697072744369507
+CH_dayahead_price,3.500466823577881
+Cross_border_physical_flows_CH_IT,3.008981704711914
+Energy_positive_tertiary_lag1,2.2941362857818604
+Energy_negative_secondary,1.9439916610717773
+Exchange_CH_FR,1.8246780633926392
+Exchange_CH_AT,1.7998918294906616
+Energy_positive_secondary,1.6657308340072632
+Cross_border_physical_flows_CH_DE,1.6090683937072754
+Cross_border_physical_flows_CH_AT_lag1,1.5760908126831055
+Imbalance netting import,1.5663248300552368
+FRCE n,1.5065516233444214
+Price_negative_tertiary_lag1,1.4136438369750977
+Imbalance netting export,1.3238449096679688
+renewable_energy_lag1,1.1563032865524292
+mFRR p,1.1390565633773804
+aFRR p,1.1304839849472046
+Exchange_IT_CH,1.080590844154358
+Energy_negative_tertiary,0.9933169484138489
+Energy_negative_secondary_lag1,0.9826639890670776
+Price_gas,0.9544293284416199
+Exchange_IT_CH_lag1,0.9133376479148865
+Price_gas_lag1,0.8997117877006531
+Exchange_CH_AT_lag1,0.8994712829589844
+renewable_energy,0.7921730875968933
+Imbalance netting import_lag1,0.7830837965011597
+Exchange_FR_CH,0.7649549245834351
+FRCE n_lag1,0.6802337765693665
+Forecast_transfer_capacities_dayahead_CH_IT_lag1,0.6766189336776733
+CH_intraday_price,0.6765749454498291
+Exchange_CH_IT,0.6763593554496765
+Imbalance netting export_lag1,0.5981640815734863
+Cross_border_physical_flows_CH_AT,0.5802700519561768
+Forecast_transfer_capacities_dayahead_CH_IT,0.5775793194770813
+Energy_positive_secondary_lag1,0.5648122429847717
+Forecast_transfer_capacities_dayahead_IT_CH_lag1,0.4910973310470581
+Exchange_DE_CH_lag1,0.38805916905403137
+Exchange_CH_DE_lag1,0.3563099205493927
+Exchange_CH_FR_lag1,0.3197442591190338
+Exchange_DE_CH,0.3099653422832489
+Price_negative_secondary_lag1,0.2929820716381073
+Exchange_CH_IT_lag1,0.1804429292678833
+Exchange_AT_CH,0.1650385856628418
+CH_intraday_price_lag1,0.14227533340454102
+aFRR p_lag1,0.07816475629806519
+aFRR n,0.03214550018310547
+Total System Imbalance_lag1,0.013378500938415527
