@@ -1,0 +1,3 @@
+rule,precision,recall,support
+mFRR n > -579.5 and Total System Imbalance > 273.11297607421875 and CH_dayahead_price_lag1 <= 8.06000018119812,1.0,0.15384615384615385,400
+mFRR n <= -579.5,1.0,0.11538461538461539,400

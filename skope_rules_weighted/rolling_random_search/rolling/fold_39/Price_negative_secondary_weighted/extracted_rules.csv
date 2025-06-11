@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Energy_negative_secondary <= -34.61899948120117 and renewable_energy_lag1 > 553.0 and Exchange_CH_FR_lag1 <= 63.05550003051758,1.0,0.3584905660377358,350
+Price_gas <= 46.04999923706055 and Energy_negative_secondary <= -20.289499282836914 and Energy_negative_secondary > -34.61899948120117 and Price_negative_secondary_lag1 <= -32.3149995803833 and Exchange_CH_DE_lag1 <= 107.09199905395508,1.0,0.1509433962264151,56
+Energy_negative_secondary <= -20.289499282836914 and Energy_negative_secondary > -34.61899948120117 and Price_negative_secondary_lag1 <= -32.3149995803833 and Exchange_CH_DE_lag1 <= 107.09199905395508 and renewable_energy > 122.5,1.0,0.1509433962264151,40

@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Energy_positive_secondary > 23.4060001373291 and Price_positive_secondary_lag1 > 202.02000427246094,1.0,0.35555555555555557,400
+Price_gas > 35.150001525878906 and Energy_positive_secondary > 38.74049949645996 and Price_positive_secondary_lag1 <= 202.02000427246094 and Price_negative_secondary_lag1 <= 88.72999954223633,1.0,0.13333333333333333,12
+Energy_positive_secondary <= 23.4060001373291 and Energy_positive_secondary > 1.67849999666214 and Exchange_IT_CH <= 14.305999755859375 and CH_intraday_price > 155.0250015258789 and renewable_energy <= 691.0,1.0,0.1111111111111111,202

@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Forecast_transfer_capacities_dayahead_CH_DE > 3750.0 and Energy_negative_secondary <= -25.80650043487549 and CH_dayahead_price_lag1 <= 133.30500030517578 and Cross_border_physical_flows_CH_IT_lag1 <= 2238.0 and Cross_border_physical_flows_DE_CH_lag1 > 203.0 and Exchange_DE_CH_lag1 > 84.35900115966797,1.0,0.27722772277227725,64
+Energy_positive_secondary <= 37.60700035095215 and Energy_negative_secondary > -0.32200001180171967 and Price_negative_secondary_lag1 <= -39.92499923706055,1.0,0.15841584158415842,68
+aFRR n > -36.445218086242676 and Energy_negative_secondary > -0.32200001180171967 and Price_negative_secondary_lag1 <= -39.92499923706055,1.0,0.15841584158415842,82

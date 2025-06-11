@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Total System Imbalance <= 165.5441665649414 and Exchange_CH_DE > 76.55000305175781 and CH_intraday_price_lag1 > 166.0999984741211 and Energy_negative_tertiary <= -0.75 and Energy_negative_tertiary > -55.875,0.9682539682539683,0.45185185185185184,300
+Exchange_CH_AT <= 52.94999885559082 and Exchange_AT_CH <= 152.21299743652344 and Energy_negative_tertiary_lag1 > -13.375 and CH_intraday_price_lag1 <= 166.0999984741211 and Energy_negative_tertiary <= -0.75,1.0,0.06666666666666667,14
+Exchange_AT_CH > 152.21299743652344 and Price_negative_tertiary_lag1 > 149.9199981689453 and CH_intraday_price_lag1 <= 166.0999984741211 and Energy_negative_tertiary <= -0.75 and Energy_negative_tertiary > -13.5,0.8,0.05925925925925926,300

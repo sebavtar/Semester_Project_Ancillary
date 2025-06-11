@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Price_negative_tertiary_lag1 > 150.5050048828125 and Energy_negative_tertiary <= -0.875 and Cross_border_physical_flows_FR_CH_lag1 <= 3273.0 and mFRR n_lag1 > -112.5 and CH_intraday_price > 166.80999755859375,1.0,0.3135593220338983,10
+Price_negative_tertiary_lag1 > 150.5050048828125 and Energy_negative_tertiary <= -0.875 and Energy_negative_tertiary > -78.88750076293945 and mFRR n_lag1 > -112.5 and CH_intraday_price > 166.80999755859375,1.0,0.3135593220338983,48
+Price_negative_tertiary_lag1 > 150.5050048828125 and Energy_negative_tertiary <= -0.875 and Energy_negative_tertiary > -78.88750076293945 and CH_dayahead_price > 157.37000274658203 and CH_intraday_price > 166.80999755859375,1.0,0.3135593220338983,58

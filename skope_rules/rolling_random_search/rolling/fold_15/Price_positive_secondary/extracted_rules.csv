@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Price_gas > 38.07499885559082 and Imbalance netting export > -80.54031372070312 and Energy_positive_secondary > 18.710999488830566 and Imbalance netting export_lag1 > -115.03146743774414 and Exchange_AT_CH_lag1 > 8.599999904632568,1.0,0.5,180
+Imbalance netting export > -80.54031372070312 and Energy_positive_secondary > 18.710999488830566 and Price_gas_lag1 > 38.07499885559082 and Imbalance netting export_lag1 > -115.03146743774414 and Exchange_AT_CH_lag1 > 8.599999904632568,1.0,0.5,220
+Price_gas <= 38.07499885559082 and Energy_positive_secondary > 33.090999603271484 and Price_gas_lag1 > 26.699999809265137 and CH_intraday_price_lag1 <= 112.75,1.0,0.1016949152542373,18

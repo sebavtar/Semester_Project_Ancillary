@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Energy_positive_secondary <= 0.036000000312924385 and Energy_negative_secondary <= -13.929999828338623 and Exchange_FR_CH > 59.35949897766113 and CH_dayahead_price <= 28.56999969482422,1.0,0.4186046511627907,40
+Imbalance netting export > -78.35269165039062 and Energy_negative_secondary <= -13.929999828338623 and Exchange_FR_CH > 59.35949897766113 and CH_dayahead_price <= 28.56999969482422,1.0,0.4186046511627907,58
+Energy_negative_secondary <= -13.929999828338623 and Exchange_FR_CH > 59.35949897766113 and CH_dayahead_price <= 28.56999969482422 and CH_intraday_price <= 26.475000381469727,1.0,0.4186046511627907,46

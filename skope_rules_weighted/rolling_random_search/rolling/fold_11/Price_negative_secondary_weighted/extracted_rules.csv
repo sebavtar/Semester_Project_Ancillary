@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Energy_negative_secondary <= -40.686500549316406 and Cross_border_physical_flows_CH_IT_lag1 <= 3431.0 and Total System Imbalance_lag1 > -69.02983856201172 and Exchange_CH_DE_lag1 > 7.499500036239624 and Exchange_FR_CH_lag1 > 101.65900039672852,0.972972972972973,0.5070422535211268,174
+mFRR n <= -18.5 and Energy_negative_secondary <= -30.553500175476074 and Energy_negative_secondary > -40.686500549316406 and day_type > 0.5 and renewable_energy <= 2000.0,1.0,0.11267605633802817,350
+Energy_negative_secondary <= -30.553500175476074 and Energy_negative_secondary > -40.686500549316406 and renewable_energy > 2000.0,1.0,0.08450704225352113,350

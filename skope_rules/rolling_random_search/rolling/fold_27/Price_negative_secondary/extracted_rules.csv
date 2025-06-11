@@ -1,0 +1,3 @@
+rule,precision,recall,support
+Energy_negative_secondary <= -5.052999973297119 and Price_negative_secondary_lag1 <= -29.130000114440918 and CH_intraday_price_lag1 <= 58.92500114440918 and renewable_energy_lag1 > 632.5 and Forecast_transfer_capacities_dayahead_DE_CH_lag1 <= 1425.0 and FRCE p_lag1 <= 12.164831161499023,1.0,0.34375,204
+Cross_border_physical_flows_DE_CH <= 1924.5 and Energy_negative_secondary <= -29.916500091552734 and Price_negative_secondary_lag1 > -29.130000114440918 and CH_dayahead_price <= 80.45500183105469 and Exchange_DE_CH_lag1 > 69.79999923706055,1.0,0.1875,84

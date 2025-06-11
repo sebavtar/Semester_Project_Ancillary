@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Energy_positive_secondary > 26.062000274658203 and Forecast_transfer_capacities_dayahead_CH_IT_lag1 > 2541.5 and CH_dayahead_price > 149.48999786376953,1.0,0.3884297520661157,300
+Forecast_transfer_capacities_dayahead_CH_IT <= 2511.5 and Energy_positive_secondary > 26.062000274658203 and Total System Imbalance <= 111.0662841796875 and Forecast_transfer_capacities_dayahead_CH_IT_lag1 <= 2541.5 and CH_dayahead_price > 149.48999786376953,1.0,0.1322314049586777,300
+Energy_positive_secondary <= 26.062000274658203 and Energy_positive_secondary > 10.11050033569336 and Cross_border_physical_flows_DE_CH_lag1 > 900.5 and CH_dayahead_price <= 196.2050018310547 and CH_dayahead_price > 168.8499984741211 and Exchange_CH_IT_lag1 <= 1040.7560119628906,1.0,0.10743801652892562,300

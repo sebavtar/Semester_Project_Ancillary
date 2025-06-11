@@ -1,0 +1,2 @@
+rule,precision,recall,support
+Exchange_CH_FR > 60.42199897766113 and Energy_negative_secondary <= -0.7355000078678131 and Exchange_IT_CH > 12.061999797821045 and Price_negative_secondary_lag1 <= -29.425000190734863 and CH_dayahead_price <= 36.545000076293945,0.9393939393939394,0.47692307692307695,350

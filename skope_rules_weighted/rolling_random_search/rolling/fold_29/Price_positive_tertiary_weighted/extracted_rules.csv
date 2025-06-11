@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Cross_border_physical_flows_AT_CH <= 669.0 and aFRR p <= 124.64679336547852 and mFRR p > 80.5 and Exchange_IT_CH > 0.7120000123977661 and Price_positive_tertiary_lag1 > 151.00249481201172 and CH_intraday_price_lag1 > 101.40999984741211 and Forecast_transfer_capacities_dayahead_DE_CH_lag1 > 1225.0,1.0,0.3804347826086957,44
+Total System Imbalance <= -151.8650665283203 and Exchange_DE_CH > 22.100000381469727 and Price_positive_tertiary_lag1 > 151.00249481201172 and Cross_border_physical_flows_AT_CH_lag1 <= 496.5 and mFRR p_lag1 > 83.0,1.0,0.3695652173913043,74
+aFRR n <= -6.480085611343384 and Price_positive_tertiary_lag1 <= 151.00249481201172 and Energy_positive_tertiary > 3.875 and CH_dayahead_price_lag1 > 116.71500015258789 and CH_dayahead_price > 106.5,1.0,0.09782608695652174,350

@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Energy_positive_tertiary > 1.625 and CH_intraday_price_lag1 > 174.98999786376953 and Forecast_transfer_capacities_dayahead_CH_IT_lag1 > 2511.5 and Exchange_FR_CH_lag1 <= 568.2369995117188 and renewable_energy > 123.0,1.0,0.416,222
+Cross_border_physical_flows_FR_CH <= 1967.5 and Forecast_transfer_capacities_dayahead_CH_IT > 2373.5 and Energy_positive_tertiary > 158.375 and CH_intraday_price_lag1 <= 174.98999786376953 and Energy_negative_tertiary > -5.75,1.0,0.176,32
+Price_gas > 49.85000038146973 and Energy_positive_tertiary > 158.375 and CH_dayahead_price_lag1 > 150.15499877929688 and CH_intraday_price_lag1 <= 174.98999786376953 and Energy_negative_tertiary > -51.75,1.0,0.16,202

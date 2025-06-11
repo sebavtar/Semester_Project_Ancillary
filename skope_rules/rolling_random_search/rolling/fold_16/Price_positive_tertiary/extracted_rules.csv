@@ -1,0 +1,2 @@
+rule,precision,recall,support
+Cross_border_physical_flows_AT_CH <= 502.5 and FRCE n > -9.370393753051758 and Price_positive_tertiary_lag1 > 149.73600006103516 and Energy_positive_tertiary > 24.875 and CH_intraday_price > 103.95000076293945,0.9625,0.6260162601626016,110

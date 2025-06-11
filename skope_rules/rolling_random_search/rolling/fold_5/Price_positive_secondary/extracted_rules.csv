@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Imbalance netting export > -212.19691848754883 and Energy_positive_secondary > 28.156999588012695 and Exchange_FR_CH > 29.17300033569336 and CH_dayahead_price_lag1 > 147.1500015258789 and Forecast_transfer_capacities_dayahead_CH_IT_lag1 > 2051.5,1.0,0.5206611570247934,32
+Energy_positive_secondary <= 28.156999588012695 and Energy_positive_secondary > 14.936500549316406 and Price_positive_secondary_lag1 > 272.2699890136719 and CH_dayahead_price <= 196.93500518798828 and renewable_energy <= 295.0,1.0,0.09090909090909091,122
+Energy_positive_secondary > 45.91150093078613 and CH_dayahead_price_lag1 <= 147.1500015258789 and Exchange_IT_CH_lag1 > 0.24550000578165054,1.0,0.09090909090909091,400

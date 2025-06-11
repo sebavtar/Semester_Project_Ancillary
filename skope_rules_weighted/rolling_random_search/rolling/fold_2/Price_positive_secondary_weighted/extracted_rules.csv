@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Energy_positive_secondary > 26.651999473571777 and Price_gas_lag1 > 54.25 and renewable_energy_lag1 > 201.5,1.0,0.4065040650406504,216
+Energy_positive_secondary > 26.651999473571777 and Price_positive_secondary_lag1 > 203.46500396728516 and Price_gas_lag1 > 54.25 and Energy_positive_secondary_lag1 <= 30.926000595092773 and renewable_energy_lag1 <= 201.5 and Total System Imbalance_lag1 <= 225.3006362915039,1.0,0.2032520325203252,78
+Energy_positive_secondary > 32.11149978637695 and Price_positive_secondary_lag1 > 219.2300033569336 and Price_gas_lag1 <= 54.25 and Cross_border_physical_flows_AT_CH_lag1 <= 1039.0,1.0,0.08943089430894309,116

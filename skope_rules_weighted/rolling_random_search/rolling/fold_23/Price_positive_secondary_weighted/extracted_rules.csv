@@ -1,0 +1,4 @@
+rule,precision,recall,support
+mFRR n > -225.5 and Energy_positive_secondary > 10.404500007629395 and Price_negative_secondary_lag1 <= 86.25500106811523 and CH_dayahead_price_lag1 > 104.02000045776367 and Forecast_transfer_capacities_dayahead_DE_CH_lag1 <= 2025.0,0.9298245614035088,0.43089430894308944,22
+Energy_positive_secondary > 25.384499549865723 and Exchange_CH_FR > 11.415500164031982 and CH_dayahead_price_lag1 <= 104.02000045776367 and Exchange_FR_CH_lag1 > 101.45249938964844,1.0,0.12195121951219512,86
+Energy_positive_secondary <= 10.404500007629395 and Exchange_CH_FR > 87.12749862670898 and renewable_energy_lag1 <= 1398.5 and Cross_border_physical_flows_IT_CH_lag1 <= 703.0 and CH_intraday_price > 144.5749969482422,1.0,0.0975609756097561,2

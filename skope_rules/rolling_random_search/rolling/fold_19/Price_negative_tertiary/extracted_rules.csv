@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Energy_negative_secondary <= -0.5030000060796738 and Price_negative_tertiary_lag1 <= -36.55999946594238 and CH_intraday_price <= 26.75,1.0,0.5,46
+Exchange_FR_CH > 60.65549850463867 and Price_negative_tertiary_lag1 <= -36.55999946594238 and CH_intraday_price <= 26.75,1.0,0.5,52
+Price_negative_tertiary_lag1 <= -36.55999946594238 and Energy_negative_tertiary <= -8.25 and CH_intraday_price <= 26.75,1.0,0.5,56

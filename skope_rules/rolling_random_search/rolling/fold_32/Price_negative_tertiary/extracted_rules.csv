@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Total System Imbalance > 396.59983825683594 and Exchange_AT_CH_lag1 <= 173.73150062561035,1.0,0.4375,14
+Total System Imbalance > 396.59983825683594 and Cross_border_physical_flows_CH_AT_lag1 > 6.5,1.0,0.4375,14
+Cross_border_physical_flows_AT_CH <= 188.5 and Total System Imbalance > 396.59983825683594,1.0,0.4375,12

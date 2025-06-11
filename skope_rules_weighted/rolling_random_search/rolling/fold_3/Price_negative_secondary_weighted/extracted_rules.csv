@@ -1,0 +1,3 @@
+rule,precision,recall,support
+Energy_positive_secondary <= 12.086499691009521 and RR p <= 100.0 and Energy_negative_secondary > -1.2675000429153442 and Price_negative_secondary_lag1 > 148.25999450683594,1.0,0.3106796116504854,400
+Exchange_DE_CH <= 972.2795104980469 and Energy_negative_secondary <= -42.13549995422363 and Price_negative_secondary_lag1 <= 148.25999450683594 and Cross_border_physical_flows_AT_CH_lag1 > 1250.5,1.0,0.0970873786407767,20

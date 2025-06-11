@@ -1,0 +1,30 @@
+{
+  "regime": "rolling",
+  "target": "Price_negative_secondary",
+  "metrics": {
+    "precision": 1.0,
+    "recall": 0.9,
+    "f1": 0.9473684210526316,
+    "auc": 0.95,
+    "mcc": 0.9456953117370888,
+    "weighted_mcc": 0.8579189033472201,
+    "confusion_matrix": [
+      [
+        158,
+        0
+      ],
+      [
+        1,
+        9
+      ]
+    ]
+  },
+  "train_window": [
+    "2023-03-12 00:00:00",
+    "2023-04-29 23:00:00"
+  ],
+  "test_window": [
+    "2023-04-30 00:00:00",
+    "2023-05-06 23:00:00"
+  ]
+}

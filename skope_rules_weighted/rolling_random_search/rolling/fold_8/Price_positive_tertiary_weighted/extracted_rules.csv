@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Forecast_transfer_capacities_dayahead_CH_IT <= 3164.5 and Forecast_transfer_capacities_dayahead_CH_IT > 2329.0 and Exchange_FR_CH <= 193.14450073242188 and Energy_positive_tertiary > 124.625 and aFRR n_lag1 > -197.1259002685547,0.9736842105263158,0.3008130081300813,12
+Cross_border_physical_flows_CH_IT <= 3648.5 and Forecast_transfer_capacities_dayahead_CH_IT <= 3164.5 and Forecast_transfer_capacities_dayahead_CH_IT > 2329.0 and Exchange_FR_CH <= 193.14450073242188 and Energy_positive_tertiary > 124.625,0.9736842105263158,0.3008130081300813,8
+Forecast_transfer_capacities_dayahead_CH_IT > 2329.0 and Exchange_FR_CH <= 193.14450073242188 and Energy_positive_tertiary > 124.625 and aFRR n_lag1 > -197.1259002685547 and Exchange_AT_CH_lag1 > 113.03899765014648,0.9736842105263158,0.3008130081300813,8

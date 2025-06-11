@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Exchange_FR_CH <= 292.0480041503906 and Energy_positive_tertiary > 9.625 and CH_intraday_price_lag1 > 128.19000244140625 and Exchange_CH_FR_lag1 <= 385.3710021972656,0.8787878787878788,0.48333333333333334,54
+Cross_border_physical_flows_FR_CH <= 1153.5 and Energy_positive_tertiary > 9.625 and CH_intraday_price_lag1 > 128.19000244140625 and Exchange_CH_FR_lag1 <= 385.3710021972656,0.8787878787878788,0.48333333333333334,64
+Energy_positive_tertiary > 9.625 and CH_intraday_price_lag1 > 128.19000244140625 and Exchange_CH_FR_lag1 <= 385.3710021972656 and Exchange_CH_IT_lag1 <= 653.8200073242188,0.8787878787878788,0.48333333333333334,76

@@ -1,0 +1,3 @@
+rule,precision,recall,support
+Cross_border_physical_flows_CH_IT <= 2596.0 and Forecast_transfer_capacities_dayahead_CH_FR > 600.0 and Energy_positive_secondary > 15.701000213623047 and Price_positive_secondary_lag1 > 178.73999786376953,1.0,0.38961038961038963,350
+Energy_positive_secondary > 30.191500663757324 and Total System Imbalance <= 186.04672241210938 and Price_positive_secondary_lag1 <= 178.73999786376953 and Energy_positive_secondary_lag1 > 0.032999999821186066,1.0,0.18181818181818182,122

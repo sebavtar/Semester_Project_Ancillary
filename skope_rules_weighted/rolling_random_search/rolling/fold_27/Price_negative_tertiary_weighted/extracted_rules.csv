@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Price_positive_secondary_lag1 <= 117.5 and mFRR n_lag1 <= -293.0,1.0,0.4838709677419355,350
+Exchange_DE_CH > 362.6940002441406 and Energy_negative_tertiary <= -148.875 and mFRR n_lag1 > -293.0,1.0,0.1935483870967742,34
+Energy_negative_tertiary <= -148.875 and Forecast_transfer_capacities_dayahead_DE_CH_lag1 <= 850.0 and mFRR n_lag1 > -293.0,1.0,0.1935483870967742,40

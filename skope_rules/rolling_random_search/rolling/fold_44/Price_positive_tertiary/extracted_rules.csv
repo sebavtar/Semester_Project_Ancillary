@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Exchange_CH_DE > 471.3625030517578 and Price_positive_tertiary_lag1 > 163.08599853515625 and Energy_positive_tertiary > 6.75 and Exchange_CH_AT_lag1 <= 256.7155075073242,1.0,0.4166666666666667,122
+Price_positive_tertiary_lag1 <= 163.08599853515625 and Energy_positive_tertiary > 26.0 and Imbalance netting export_lag1 > -120.32168960571289 and Forecast_transfer_capacities_dayahead_IT_CH_lag1 <= 1860.0 and CH_dayahead_price > 137.27499389648438,1.0,0.125,128
+Exchange_CH_DE <= 471.3625030517578 and Exchange_IT_CH <= 41.00699996948242 and Price_positive_tertiary_lag1 > 163.08599853515625 and Energy_positive_tertiary > 6.75 and Exchange_CH_IT_lag1 <= 779.2415161132812,0.9333333333333333,0.11666666666666667,400

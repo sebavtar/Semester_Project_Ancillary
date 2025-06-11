@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Price_negative_tertiary_lag1 <= -36.55999946594238 and renewable_energy_lag1 > 2487.0,1.0,0.4,300
+Price_negative_tertiary_lag1 <= -36.55999946594238 and renewable_energy_lag1 <= 2487.0 and Energy_negative_tertiary <= -70.25,1.0,0.11428571428571428,300
+Price_negative_tertiary_lag1 > -36.55999946594238 and mFRR n_lag1 <= -287.5,1.0,0.05714285714285714,300

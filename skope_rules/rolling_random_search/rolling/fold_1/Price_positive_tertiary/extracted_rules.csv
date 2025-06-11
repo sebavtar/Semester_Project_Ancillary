@@ -1,0 +1,4 @@
+rule,precision,recall,support
+aFRR p <= 182.9693603515625 and Energy_positive_tertiary > 28.125 and CH_intraday_price_lag1 > 199.0449981689453 and Cross_border_physical_flows_CH_FR_lag1 > 1159.5 and mFRR p_lag1 <= 154.5,1.0,0.3170731707317073,300
+Energy_positive_tertiary > 165.75 and CH_dayahead_price_lag1 > 166.6199951171875 and CH_intraday_price_lag1 <= 199.0449981689453 and Forecast_transfer_capacities_dayahead_CH_IT_lag1 > 3669.0 and FRCE n_lag1 <= -0.18228556215763092,0.9047619047619048,0.15447154471544716,36
+FRCE p <= 10.314238786697388 and Energy_positive_tertiary > 165.75 and CH_dayahead_price_lag1 > 166.6199951171875 and CH_intraday_price_lag1 <= 199.0449981689453 and FRCE n_lag1 <= -0.18228556215763092,0.9047619047619048,0.15447154471544716,54

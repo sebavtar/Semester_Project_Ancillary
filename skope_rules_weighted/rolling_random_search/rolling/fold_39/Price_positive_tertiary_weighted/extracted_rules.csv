@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Price_positive_tertiary_lag1 > 155.0695037841797 and Energy_positive_tertiary > 62.03750038146973 and Energy_negative_secondary_lag1 > -25.162500381469727 and renewable_energy_lag1 <= 1702.5 and renewable_energy <= 742.5,1.0,0.35877862595419846,400
+Cross_border_physical_flows_DE_CH <= 161.5 and Price_positive_tertiary_lag1 > 155.0695037841797 and Energy_positive_tertiary <= 62.03750038146973 and Energy_positive_tertiary > 1.274999976158142 and CH_dayahead_price_lag1 > 145.22000122070312,1.0,0.12213740458015267,106
+Price_positive_tertiary_lag1 <= 155.0695037841797 and Energy_positive_tertiary > 65.0 and CH_intraday_price > 123.5 and Total System Imbalance_lag1 <= 39.13047790527344,1.0,0.10687022900763359,194

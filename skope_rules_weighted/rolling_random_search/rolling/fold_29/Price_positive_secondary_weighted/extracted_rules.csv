@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Energy_positive_secondary > 36.71549987792969,1.0,0.36923076923076925,300
+Energy_positive_secondary <= 36.71549987792969 and Energy_positive_secondary > 17.2160005569458 and Energy_positive_tertiary <= 106.125 and Forecast_transfer_capacities_dayahead_CH_IT_lag1 <= 2514.5 and CH_intraday_price > 95.625,1.0,0.2153846153846154,102
+Energy_positive_secondary <= 36.71549987792969 and Energy_positive_secondary > 17.2160005569458 and Forecast_transfer_capacities_dayahead_CH_IT_lag1 <= 2514.5 and CH_intraday_price > 95.625 and Exchange_CH_IT_lag1 <= 648.2174987792969,1.0,0.2153846153846154,114

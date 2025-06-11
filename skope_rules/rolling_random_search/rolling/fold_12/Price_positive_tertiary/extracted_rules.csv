@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Total System Imbalance > -973.5381774902344 and Price_positive_tertiary_lag1 > 165.40799713134766 and Energy_positive_tertiary > 43.0 and CH_dayahead_price_lag1 > 124.66500091552734 and Cross_border_physical_flows_CH_IT_lag1 <= 4032.0 and Exchange_IT_CH_lag1 <= 25.85650062561035,0.9791666666666666,0.38524590163934425,400
+Price_positive_tertiary_lag1 <= 165.40799713134766 and Energy_positive_tertiary > 7.875 and CH_dayahead_price_lag1 > 151.51499938964844,1.0,0.10655737704918032,400
+Price_positive_tertiary_lag1 <= 165.40799713134766 and Energy_positive_tertiary > 113.0 and Energy_positive_tertiary_lag1 <= 96.625 and CH_dayahead_price_lag1 <= 151.51499938964844 and CH_intraday_price_lag1 > 104.625,1.0,0.06557377049180328,70

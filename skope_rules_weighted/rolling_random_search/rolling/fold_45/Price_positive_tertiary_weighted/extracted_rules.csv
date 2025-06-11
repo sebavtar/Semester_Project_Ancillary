@@ -1,0 +1,4 @@
+rule,precision,recall,support
+mFRR n > -61.5 and Energy_positive_tertiary > 28.5 and Imbalance netting export_lag1 > -37.59183311462402 and CH_intraday_price_lag1 > 130.3000030517578,1.0,0.5462184873949579,400
+Exchange_CH_FR > 230.2594985961914 and Energy_positive_tertiary <= 28.5 and Energy_positive_tertiary > 2.375 and CH_intraday_price_lag1 > 130.3000030517578 and Exchange_CH_IT_lag1 <= 920.3824768066406,0.9333333333333333,0.11764705882352941,400
+Price_positive_tertiary_lag1 > 162.61100006103516 and Energy_positive_tertiary > 109.75 and CH_intraday_price_lag1 <= 130.3000030517578,1.0,0.05042016806722689,184

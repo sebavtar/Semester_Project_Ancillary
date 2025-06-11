@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Energy_positive_secondary > 23.4060001373291 and Price_positive_secondary_lag1 > 202.02000427246094,1.0,0.35555555555555557,300
+Energy_positive_secondary > 38.74049949645996 and Price_positive_secondary_lag1 <= 202.02000427246094 and Price_negative_secondary_lag1 <= 88.72999954223633 and Exchange_DE_CH_lag1 > 85.32999801635742,1.0,0.13333333333333333,8
+Energy_positive_secondary > 38.74049949645996 and Exchange_DE_CH > 68.45000076293945 and Price_positive_secondary_lag1 <= 202.02000427246094 and Price_negative_secondary_lag1 <= 88.72999954223633,1.0,0.13333333333333333,20

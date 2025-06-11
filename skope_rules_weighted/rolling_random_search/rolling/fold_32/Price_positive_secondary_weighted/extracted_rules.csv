@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Imbalance netting import <= 133.93042373657227 and Energy_positive_secondary > 25.162500381469727 and Price_positive_secondary_lag1 > 181.68000030517578,1.0,0.37857142857142856,400
+Energy_positive_secondary > 36.86650085449219 and Price_positive_secondary_lag1 <= 181.68000030517578 and CH_intraday_price > 81.0,1.0,0.15,400
+mFRR p > 68.5 and Energy_positive_secondary <= 25.162500381469727 and CH_intraday_price > 136.5449981689453 and Exchange_CH_FR_lag1 <= 458.4355010986328,1.0,0.12142857142857143,400

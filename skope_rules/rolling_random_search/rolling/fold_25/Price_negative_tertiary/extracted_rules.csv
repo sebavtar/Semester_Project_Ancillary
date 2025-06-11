@@ -1,0 +1,4 @@
+rule,precision,recall,support
+mFRR n <= -144.5 and Price_negative_tertiary_lag1 <= -37.58600044250488 and Energy_positive_secondary_lag1 <= 12.280499815940857,1.0,0.4594594594594595,50
+mFRR n <= -144.5 and Price_negative_tertiary_lag1 <= -37.58600044250488 and FRCE n_lag1 > -5.543357610702515,1.0,0.4594594594594595,52
+mFRR n <= -361.5 and Price_negative_tertiary_lag1 > -37.58600044250488,1.0,0.10810810810810811,400

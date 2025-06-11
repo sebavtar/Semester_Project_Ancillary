@@ -1,0 +1,2 @@
+rule,precision,recall,support
+Energy_negative_secondary <= -12.323500156402588 and Exchange_FR_CH <= 472.47698974609375 and Price_negative_secondary_lag1 <= -7.504999876022339 and CH_intraday_price_lag1 <= 75.3650016784668 and Cross_border_physical_flows_AT_CH_lag1 <= 1486.0,1.0,0.3484848484848485,90

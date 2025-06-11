@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Imbalance netting export > -80.84364318847656 and Energy_positive_secondary > 24.70699977874756 and Price_positive_secondary_lag1 > 183.0 and Exchange_CH_DE_lag1 <= 661.6129760742188,1.0,0.4253731343283582,108
+Energy_positive_secondary > 34.4900016784668 and Price_positive_secondary_lag1 <= 183.0 and Energy_positive_secondary_lag1 <= 13.184999942779541,1.0,0.14925373134328357,350
+Energy_positive_secondary <= 24.70699977874756 and CH_dayahead_price > 161.68999481201172 and aFRR n_lag1 > -37.28067588806152,1.0,0.12686567164179105,350

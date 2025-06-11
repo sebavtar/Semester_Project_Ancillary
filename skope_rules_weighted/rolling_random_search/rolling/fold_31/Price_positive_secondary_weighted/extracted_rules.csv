@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Energy_positive_secondary > 23.960000038146973 and Price_positive_secondary_lag1 > 175.76499938964844 and renewable_energy_lag1 > 340.0,1.0,0.3897058823529412,156
+Imbalance netting export > -39.54423141479492 and Energy_positive_secondary > 36.86650085449219 and Price_positive_secondary_lag1 <= 175.76499938964844,1.0,0.1323529411764706,350
+Energy_positive_secondary <= 23.960000038146973 and Energy_positive_secondary > 11.803999900817871 and Exchange_FR_CH <= 208.20000457763672 and Exchange_FR_CH > 36.04549980163574 and CH_dayahead_price_lag1 <= 155.73999786376953 and CH_dayahead_price_lag1 > 99.35499954223633 and Forecast_transfer_capacities_dayahead_CH_AT_lag1 > 725.0,0.9444444444444444,0.125,58

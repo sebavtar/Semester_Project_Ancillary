@@ -1,0 +1,2 @@
+rule,precision,recall,support
+Forecast_transfer_capacities_dayahead_CH_DE > 3875.0 and Energy_positive_secondary > 14.70550012588501 and CH_dayahead_price_lag1 > 103.77999877929688,1.0,0.24793388429752067,400

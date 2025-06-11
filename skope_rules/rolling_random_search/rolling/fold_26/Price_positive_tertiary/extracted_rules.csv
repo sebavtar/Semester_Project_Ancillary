@@ -1,0 +1,3 @@
+rule,precision,recall,support
+Forecast_transfer_capacities_dayahead_CH_DE <= 3675.0 and Exchange_FR_CH > 11.07800006866455 and Price_positive_tertiary_lag1 > 136.4705047607422 and Energy_positive_tertiary > 15.0 and Exchange_CH_IT_lag1 > 369.5865020751953,0.8787878787878788,0.4142857142857143,148
+Forecast_transfer_capacities_dayahead_CH_DE <= 3675.0 and Exchange_FR_CH > 11.07800006866455 and Price_positive_tertiary_lag1 > 136.4705047607422 and Energy_positive_tertiary > 15.0 and Imbalance netting export_lag1 > -50.85319709777832,0.8787878787878788,0.4142857142857143,152

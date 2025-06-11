@@ -1,0 +1,3 @@
+rule,precision,recall,support
+CH_dayahead_price_lag1 > 158.4550018310547 and Energy_negative_tertiary <= -0.625 and CH_intraday_price > 161.05500030517578 and Exchange_IT_CH_lag1 > 3.206499934196472,1.0,0.20634920634920634,400
+Imbalance netting import_lag1 <= 21.404220581054688 and CH_dayahead_price_lag1 <= 180.06000518798828 and CH_dayahead_price_lag1 > 158.4550018310547 and Energy_negative_tertiary <= -0.625 and CH_intraday_price > 161.05500030517578 and Exchange_FR_CH_lag1 > 104.15250015258789 and Exchange_IT_CH_lag1 <= 3.206499934196472,1.0,0.1746031746031746,2

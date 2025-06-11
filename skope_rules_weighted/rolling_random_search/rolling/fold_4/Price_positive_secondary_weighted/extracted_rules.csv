@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Forecast_transfer_capacities_dayahead_CH_IT > 2843.5 and Energy_positive_secondary > 26.66100025177002 and CH_intraday_price_lag1 > 130.625,1.0,0.5476190476190477,78
+Forecast_transfer_capacities_dayahead_CH_IT > 2843.5 and Energy_positive_secondary > 26.66100025177002 and renewable_energy_lag1 > 112.5,1.0,0.5476190476190477,70
+Forecast_transfer_capacities_dayahead_CH_IT > 2843.5 and Energy_positive_secondary > 26.66100025177002 and CH_dayahead_price_lag1 > 131.50999450683594,1.0,0.5476190476190477,82

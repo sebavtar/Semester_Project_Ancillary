@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Energy_positive_secondary > 37.20750045776367,1.0,0.3795620437956204,350
+Energy_positive_secondary <= 37.20750045776367 and Energy_positive_secondary > 18.886500358581543 and CH_dayahead_price > 109.36499786376953 and Exchange_IT_CH_lag1 <= 20.029500007629395,1.0,0.22627737226277372,156
+Cross_border_physical_flows_CH_DE > 2283.0 and Energy_positive_secondary <= 18.886500358581543 and aFRR n_lag1 > -57.1009635925293 and Exchange_CH_FR_lag1 <= 291.24549865722656 and Exchange_CH_FR_lag1 > 15.446500182151794,1.0,0.06569343065693431,2

@@ -1,0 +1,2 @@
+rule,precision,recall,support
+Cross_border_physical_flows_AT_CH <= 1002.5 and Forecast_transfer_capacities_dayahead_CH_IT > 2829.5 and Energy_positive_secondary > 26.352999687194824 and Exchange_CH_DE > 14.600000381469727 and Exchange_IT_CH > 0.001500000013038516 and aFRR n_lag1 > -62.33952713012695,1.0,0.55,400

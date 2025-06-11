@@ -1,0 +1,2 @@
+rule,precision,recall,support
+mFRR n > -579.5 and CH_intraday_price_lag1 > 158.37000274658203 and Energy_negative_tertiary <= -0.625 and Exchange_DE_CH_lag1 > 384.9075012207031,1.0,0.11764705882352941,400

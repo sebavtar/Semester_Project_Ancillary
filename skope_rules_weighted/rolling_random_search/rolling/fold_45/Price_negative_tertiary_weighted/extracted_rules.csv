@@ -1,0 +1,2 @@
+rule,precision,recall,support
+Price_negative_tertiary_lag1 <= -987.0164794921875,1.0,0.5555555555555556,350

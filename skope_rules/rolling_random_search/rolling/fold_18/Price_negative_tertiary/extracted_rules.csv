@@ -1,0 +1,4 @@
+rule,precision,recall,support
+CH_intraday_price_lag1 <= -23.75,1.0,0.2222222222222222,400
+Price_negative_tertiary_lag1 <= -33.52149963378906 and CH_intraday_price_lag1 > -23.75 and renewable_energy_lag1 > 2464.0,1.0,0.14814814814814814,144
+Price_negative_tertiary_lag1 <= -33.52149963378906 and CH_intraday_price_lag1 > -23.75 and CH_intraday_price <= 14.75,1.0,0.14814814814814814,130

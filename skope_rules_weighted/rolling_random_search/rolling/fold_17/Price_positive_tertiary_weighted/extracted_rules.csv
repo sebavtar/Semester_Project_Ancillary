@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Energy_positive_tertiary > 6.25 and CH_dayahead_price_lag1 <= 153.01499938964844 and CH_dayahead_price_lag1 > 133.43500518798828,1.0,0.3269230769230769,34
+Energy_positive_tertiary > 6.25 and CH_dayahead_price_lag1 > 133.43500518798828 and Exchange_CH_IT_lag1 > 55.2189998626709,1.0,0.3269230769230769,34
+Energy_positive_tertiary > 6.25 and CH_dayahead_price_lag1 > 133.43500518798828 and Cross_border_physical_flows_IT_CH_lag1 <= 703.0,1.0,0.3269230769230769,26

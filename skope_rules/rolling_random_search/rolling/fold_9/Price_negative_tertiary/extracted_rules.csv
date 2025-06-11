@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Cross_border_physical_flows_CH_DE <= 289.5 and CH_dayahead_price_lag1 <= 189.35499572753906 and CH_dayahead_price_lag1 > 158.4550018310547 and Energy_negative_tertiary <= -0.625 and CH_intraday_price > 162.0,0.9473684210526315,0.3673469387755102,34
+Cross_border_physical_flows_CH_DE <= 289.5 and CH_dayahead_price_lag1 > 158.4550018310547 and Energy_negative_tertiary <= -0.625 and CH_intraday_price <= 191.43000030517578 and CH_intraday_price > 162.0,0.9473684210526315,0.3673469387755102,30
+Cross_border_physical_flows_CH_DE <= 289.5 and CH_dayahead_price_lag1 > 158.4550018310547 and Energy_negative_tertiary <= -0.625 and FRCE n_lag1 > -14.433027267456055 and CH_intraday_price > 162.0,0.9473684210526315,0.3673469387755102,30

@@ -1,0 +1,3 @@
+rule,precision,recall,support
+Cross_border_physical_flows_AT_CH <= 1138.0 and Price_positive_tertiary_lag1 > 160.63600158691406 and Energy_positive_tertiary > 19.625 and CH_dayahead_price > 134.54000091552734 and Exchange_CH_AT_lag1 <= 251.656494140625,1.0,0.3314917127071823,228
+Price_positive_tertiary_lag1 > 160.63600158691406 and Energy_positive_tertiary > 71.375 and Energy_negative_secondary_lag1 > -2.308500051498413 and CH_dayahead_price <= 134.54000091552734,0.96,0.13259668508287292,400

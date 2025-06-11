@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Cross_border_physical_flows_FR_CH <= 2134.0 and Energy_negative_secondary <= -11.76449966430664 and Imbalance netting import_lag1 <= 59.77731895446777 and CH_intraday_price <= 15.074999809265137,1.0,0.26136363636363635,30
+Cross_border_physical_flows_FR_CH <= 2134.0 and Energy_negative_secondary <= -11.76449966430664 and Price_negative_secondary_lag1 <= 33.82499885559082 and CH_intraday_price <= 15.074999809265137,1.0,0.26136363636363635,48
+Energy_negative_secondary <= -11.76449966430664 and Exchange_FR_CH <= 472.47698974609375 and mFRR n_lag1 > -199.0 and CH_intraday_price <= 15.074999809265137,1.0,0.26136363636363635,46

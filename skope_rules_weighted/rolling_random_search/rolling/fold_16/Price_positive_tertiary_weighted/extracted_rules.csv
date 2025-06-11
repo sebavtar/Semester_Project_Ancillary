@@ -1,0 +1,2 @@
+rule,precision,recall,support
+Cross_border_physical_flows_AT_CH <= 502.5 and FRCE n > -9.370393753051758 and Exchange_FR_CH <= 570.6790161132812 and Price_positive_tertiary_lag1 > 152.99700164794922 and Energy_positive_tertiary > 24.875 and CH_dayahead_price > 105.76000213623047,1.0,0.5772357723577236,28

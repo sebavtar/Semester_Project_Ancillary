@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Forecast_transfer_capacities_dayahead_CH_FR > 1180.5 and Forecast_transfer_capacities_dayahead_CH_DE > 3750.0 and Energy_negative_secondary <= -26.817999839782715 and renewable_energy_lag1 <= 2246.0 and renewable_energy_lag1 > 570.0 and Exchange_CH_FR_lag1 <= 54.77350044250488,1.0,0.44680851063829785,6
+Forecast_transfer_capacities_dayahead_CH_FR > 1180.5 and Energy_negative_secondary <= -26.817999839782715 and renewable_energy_lag1 > 570.0 and Forecast_transfer_capacities_dayahead_CH_DE_lag1 > 3750.0 and aFRR n_lag1 > -121.93351745605469 and Exchange_CH_FR_lag1 <= 54.77350044250488,1.0,0.44680851063829785,2
+Energy_negative_secondary <= -29.730499267578125 and renewable_energy_lag1 <= 2228.0 and renewable_energy_lag1 > 570.0 and Exchange_CH_FR_lag1 <= 54.77350044250488,1.0,0.425531914893617,92

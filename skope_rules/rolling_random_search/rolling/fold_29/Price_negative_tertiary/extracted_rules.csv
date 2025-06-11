@@ -1,0 +1,4 @@
+rule,precision,recall,support
+CH_dayahead_price <= 61.81500053405762 and mFRR n_lag1 <= -293.0,1.0,0.4666666666666667,210
+CH_dayahead_price_lag1 <= 58.72999954223633 and mFRR n_lag1 <= -293.0,1.0,0.4666666666666667,190
+Energy_negative_tertiary <= -178.125 and mFRR n_lag1 > -293.0 and Exchange_AT_CH_lag1 > 188.9604949951172,1.0,0.1,8

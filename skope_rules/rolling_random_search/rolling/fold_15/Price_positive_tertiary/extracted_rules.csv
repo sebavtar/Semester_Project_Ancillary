@@ -1,0 +1,2 @@
+rule,precision,recall,support
+Exchange_DE_CH <= 694.114990234375 and Price_positive_tertiary_lag1 > 160.94449615478516 and Energy_positive_tertiary > 5.5 and CH_intraday_price_lag1 <= 181.01000213623047 and CH_intraday_price > 126.29999923706055,0.9833333333333333,0.4796747967479675,202

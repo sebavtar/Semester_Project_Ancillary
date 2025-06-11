@@ -1,0 +1,4 @@
+rule,precision,recall,support
+aFRR n > -94.36265563964844 and Energy_positive_secondary > 22.852999687194824 and FRCE p <= 5.855821132659912 and Exchange_AT_CH > 7.549999952316284 and Price_negative_secondary_lag1 <= 116.5 and Energy_positive_secondary_lag1 > 5.384500026702881 and CH_intraday_price > 117.25,1.0,0.4251968503937008,20
+Energy_positive_secondary > 40.08049964904785 and CH_intraday_price <= 117.25,1.0,0.11811023622047244,400
+Forecast_transfer_capacities_dayahead_DE_CH <= 1000.0 and Energy_positive_secondary <= 40.08049964904785 and Energy_positive_secondary > 22.852999687194824 and Exchange_IT_CH <= 30.884499549865723 and CH_dayahead_price_lag1 > 96.70000076293945 and CH_intraday_price <= 117.25,1.0,0.10236220472440945,204

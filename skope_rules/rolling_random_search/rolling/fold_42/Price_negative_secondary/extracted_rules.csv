@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Price_gas > 42.14999961853027 and Energy_negative_secondary <= -37.92900085449219 and Total System Imbalance_lag1 > -133.11806106567383 and Exchange_CH_FR_lag1 <= 60.057498931884766,1.0,0.40425531914893614,92
+Imbalance netting import <= 16.132919788360596 and Energy_negative_secondary <= -37.92900085449219 and Price_gas_lag1 > 42.14999961853027 and Exchange_CH_FR_lag1 <= 60.057498931884766,1.0,0.40425531914893614,76
+Exchange_DE_CH > 318.2060089111328 and Energy_negative_secondary <= -21.85849952697754 and Energy_negative_secondary > -37.92900085449219 and Exchange_IT_CH > 43.5054988861084 and CH_dayahead_price <= 101.71999740600586,1.0,0.19148936170212766,400

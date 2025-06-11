@@ -1,0 +1,3 @@
+rule,precision,recall,support
+Exchange_CH_DE > 486.73399353027344 and Price_positive_tertiary_lag1 > 162.51300048828125 and Energy_positive_tertiary > 19.625 and Energy_negative_tertiary_lag1 > -47.5 and Exchange_CH_AT_lag1 <= 251.25899505615234,1.0,0.425,166
+Cross_border_physical_flows_CH_IT <= 3593.5 and Price_positive_tertiary_lag1 <= 162.51300048828125 and Energy_positive_tertiary > 26.0 and Forecast_transfer_capacities_dayahead_IT_CH_lag1 <= 1860.0 and CH_dayahead_price > 136.84000396728516,0.9090909090909091,0.16666666666666666,300

@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Energy_positive_secondary > 18.996499061584473 and Energy_positive_secondary_lag1 <= 58.47049903869629 and CH_dayahead_price_lag1 > 146.52000427246094 and Exchange_FR_CH_lag1 > 105.552001953125,1.0,0.42105263157894735,400
+Energy_positive_secondary > 34.012001037597656 and Exchange_CH_DE <= 54.847999572753906 and CH_dayahead_price_lag1 <= 146.52000427246094 and aFRR n_lag1 > -48.56318283081055,1.0,0.12781954887218044,98
+Energy_positive_secondary <= 34.012001037597656 and Energy_positive_secondary > 18.996499061584473 and Price_negative_tertiary_lag1 <= 133.43749618530273 and CH_dayahead_price_lag1 <= 146.52000427246094 and Cross_border_physical_flows_FR_CH_lag1 > 163.0 and Cross_border_physical_flows_DE_CH_lag1 > 1907.5,1.0,0.08270676691729323,104

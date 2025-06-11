@@ -1,0 +1,2 @@
+rule,precision,recall,support
+Energy_positive_secondary > 15.270500183105469 and Exchange_FR_CH > 20.130000114440918 and Exchange_IT_CH <= 59.64999961853027 and Price_positive_secondary_lag1 > 129.37000274658203,0.9866666666666667,0.4900662251655629,300

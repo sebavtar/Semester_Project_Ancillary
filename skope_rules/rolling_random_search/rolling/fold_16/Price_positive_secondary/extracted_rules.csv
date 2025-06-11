@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Forecast_transfer_capacities_dayahead_IT_CH > 1735.0 and Forecast_transfer_capacities_dayahead_CH_AT <= 800.0 and Energy_positive_secondary > 18.710999488830566,1.0,0.3474576271186441,82
+mFRR n > -154.0 and Energy_positive_secondary <= 18.710999488830566 and Energy_positive_secondary > 4.821499824523926 and Price_positive_secondary_lag1 > 187.23500061035156 and Price_gas_lag1 > 38.60000038146973 and Forecast_transfer_capacities_dayahead_CH_IT_lag1 > 2718.0,1.0,0.17796610169491525,20
+Forecast_transfer_capacities_dayahead_CH_FR <= 1180.5 and Energy_positive_secondary <= 18.710999488830566 and Energy_positive_secondary > 6.111500024795532 and Price_positive_secondary_lag1 <= 187.23500061035156 and Price_positive_secondary_lag1 > 153.1300048828125 and Total System Imbalance_lag1 > -487.49696350097656,1.0,0.06779661016949153,18

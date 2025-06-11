@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Price_gas > 34.47500038146973 and Cross_border_physical_flows_FR_CH <= 1738.5 and Forecast_transfer_capacities_dayahead_AT_CH <= 1050.0 and Energy_positive_secondary > 16.66699981689453 and Exchange_IT_CH_lag1 > 0.3529999852180481,1.0,0.23636363636363636,98
+Price_gas <= 34.47500038146973 and Cross_border_physical_flows_CH_FR <= 810.5 and Energy_positive_secondary > 16.66699981689453 and CH_dayahead_price > 13.049999713897705 and FRCE p_lag1 > 1.7527938485145569,1.0,0.12121212121212122,20
+Price_gas <= 34.47500038146973 and Energy_positive_secondary > 16.66699981689453 and Price_positive_secondary_lag1 > 151.05500030517578 and Price_gas_lag1 > 24.950000762939453 and Forecast_transfer_capacities_dayahead_CH_DE_lag1 > 3825.0 and FRCE p_lag1 <= 1.7527938485145569 and FRCE n_lag1 > -8.025565385818481,1.0,0.09090909090909091,34

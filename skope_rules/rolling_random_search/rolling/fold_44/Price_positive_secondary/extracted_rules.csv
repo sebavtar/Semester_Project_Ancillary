@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Energy_positive_secondary > 22.442999839782715 and Price_positive_secondary_lag1 > 145.2300033569336 and Price_gas_lag1 > 34.19999885559082 and FRCE p_lag1 <= 6.663539886474609 and Total System Imbalance_lag1 > -35.29859924316406,1.0,0.3949579831932773,204
+Energy_positive_secondary <= 22.442999839782715 and Energy_positive_secondary > 0.004000000189989805 and CH_dayahead_price_lag1 > 166.43500518798828 and CH_intraday_price_lag1 > 169.1750030517578,1.0,0.19327731092436976,142
+Forecast_transfer_capacities_dayahead_CH_IT <= 4027.0 and Energy_positive_secondary <= 22.442999839782715 and Energy_positive_secondary > 13.698999881744385 and CH_dayahead_price_lag1 <= 166.43500518798828 and CH_dayahead_price > 133.99500274658203,1.0,0.058823529411764705,206

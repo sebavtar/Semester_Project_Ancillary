@@ -1,0 +1,4 @@
+rule,precision,recall,support
+mFRR n <= -300.5 and Exchange_AT_CH_lag1 <= 96.2039966583252,1.0,0.36363636363636365,12
+Imbalance netting export <= -0.895788311958313 and mFRR n <= -300.5,1.0,0.36363636363636365,14
+mFRR n <= -300.5 and CH_dayahead_price_lag1 <= 66.47999954223633,1.0,0.36363636363636365,14

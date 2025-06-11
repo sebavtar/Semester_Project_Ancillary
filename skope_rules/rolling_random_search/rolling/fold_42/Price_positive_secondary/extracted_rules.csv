@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Energy_positive_secondary > 38.072500228881836 and Imbalance netting import_lag1 <= 76.16184997558594 and Energy_positive_tertiary <= 196.5 and Cross_border_physical_flows_DE_CH_lag1 <= 1999.0,1.0,0.3111111111111111,100
+Energy_positive_secondary > 38.072500228881836 and Imbalance netting import_lag1 <= 76.16184997558594 and Energy_positive_tertiary <= 196.5 and Exchange_DE_CH_lag1 <= 541.0084838867188,1.0,0.3111111111111111,74
+aFRR n > -33.572513580322266 and Energy_positive_secondary > 38.072500228881836 and Imbalance netting import_lag1 <= 76.16184997558594 and Cross_border_physical_flows_DE_CH_lag1 <= 1999.0,1.0,0.3111111111111111,64

@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Energy_negative_secondary <= -12.135000228881836 and CH_intraday_price_lag1 <= 57.95000076293945 and Cross_border_physical_flows_CH_IT_lag1 <= 2531.5 and aFRR n_lag1 > -96.45893859863281 and Exchange_FR_CH_lag1 > 82.20599746704102,1.0,0.40816326530612246,50
+Energy_negative_secondary <= -32.660499572753906 and Price_negative_secondary_lag1 <= 19.360000610351562 and Imbalance netting export_lag1 <= -14.422691345214844 and CH_intraday_price_lag1 > 57.95000076293945 and renewable_energy_lag1 <= 2841.0,1.0,0.10204081632653061,88
+Energy_negative_secondary <= -2.8895000517368317 and Energy_negative_secondary > -12.135000228881836 and CH_intraday_price_lag1 <= 57.95000076293945 and Cross_border_physical_flows_CH_AT_lag1 > 207.0,1.0,0.061224489795918366,8

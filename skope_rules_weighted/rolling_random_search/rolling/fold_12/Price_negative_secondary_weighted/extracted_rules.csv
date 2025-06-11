@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Energy_negative_secondary <= -40.686500549316406 and Price_negative_secondary_lag1 <= 64.7450008392334 and CH_dayahead_price <= 130.0 and FRCE p_lag1 <= 23.11360263824463 and Exchange_DE_CH_lag1 > 73.52800178527832,1.0,0.4246575342465753,58
+Total System Imbalance > -54.69696235656738 and Energy_negative_secondary <= -40.686500549316406 and Price_negative_tertiary_lag1 <= 103.63000106811523 and CH_dayahead_price <= 130.0 and FRCE p_lag1 <= 23.11360263824463,1.0,0.410958904109589,64
+Energy_negative_secondary <= -40.686500549316406 and Price_negative_tertiary_lag1 <= 103.63000106811523 and Total System Imbalance_lag1 > -60.30303764343262 and Exchange_CH_FR_lag1 <= 275.3195037841797,1.0,0.3972602739726027,92

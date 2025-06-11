@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Price_negative_tertiary_lag1 <= -33.52149963378906 and Forecast_transfer_capacities_dayahead_CH_IT_lag1 > 211.0 and CH_intraday_price <= 26.399999618530273,1.0,0.15384615384615385,144
+Forecast_transfer_capacities_dayahead_CH_IT_lag1 <= 211.0,1.0,0.11538461538461539,144
+CH_intraday_price_lag1 <= -23.75,1.0,0.11538461538461539,156

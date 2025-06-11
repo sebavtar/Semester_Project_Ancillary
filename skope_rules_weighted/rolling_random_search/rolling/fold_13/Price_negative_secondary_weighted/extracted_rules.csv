@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Total System Imbalance > 32.40405464172363 and Energy_negative_secondary <= -40.379499435424805 and Cross_border_physical_flows_CH_IT_lag1 <= 3431.0 and FRCE p_lag1 <= 21.598031044006348,0.9642857142857143,0.3253012048192771,204
+aFRR n <= -10.54140329360962 and Total System Imbalance > -75.96526336669922 and Energy_negative_secondary <= -40.07600021362305 and Cross_border_physical_flows_CH_FR_lag1 <= 805.0,1.0,0.3132530120481928,196
+Energy_negative_secondary > -0.3320000022649765 and Price_negative_secondary_lag1 <= -185.2050018310547,1.0,0.10843373493975904,400

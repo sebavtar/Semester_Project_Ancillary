@@ -1,0 +1,3 @@
+rule,precision,recall,support
+CH_dayahead_price <= 61.81500053405762 and mFRR n_lag1 <= -293.0,1.0,0.5,218
+CH_dayahead_price_lag1 <= 58.72999954223633 and mFRR n_lag1 <= -293.0,1.0,0.5,182

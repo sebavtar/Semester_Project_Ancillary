@@ -1,0 +1,4 @@
+rule,precision,recall,support
+FRCE p <= 27.808429718017578 and Price_negative_tertiary_lag1 > 150.69000244140625 and Energy_negative_tertiary <= -0.625 and Energy_negative_tertiary > -63.8125 and CH_dayahead_price > 163.125,1.0,0.16015625,210
+Price_negative_tertiary_lag1 > 150.69000244140625 and Energy_negative_tertiary <= -0.625 and Energy_negative_tertiary > -63.8125 and CH_dayahead_price > 163.125 and CH_intraday_price > 159.5999984741211,1.0,0.16015625,190
+Price_gas > 42.10000038146973 and Price_negative_tertiary_lag1 <= 150.69000244140625 and Price_negative_tertiary_lag1 > -36.55999946594238 and Energy_positive_tertiary > 1.274999976158142 and CH_dayahead_price_lag1 > 163.04999542236328 and CH_intraday_price_lag1 > 169.75 and Energy_negative_tertiary <= -0.625 and Energy_negative_tertiary > -25.125,1.0,0.125,202

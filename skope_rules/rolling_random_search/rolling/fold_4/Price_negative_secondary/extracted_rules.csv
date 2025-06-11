@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Energy_positive_secondary <= 11.565999984741211 and Energy_negative_secondary > -1.2675000429153442 and Price_negative_secondary_lag1 > 147.04500579833984,1.0,0.29591836734693877,400
+Cross_border_physical_flows_DE_CH > 868.0 and Energy_negative_secondary <= -48.99749946594238 and CH_dayahead_price <= 157.6500015258789,1.0,0.16326530612244897,72
+Energy_negative_secondary <= -48.99749946594238 and CH_dayahead_price <= 157.6500015258789 and FRCE p_lag1 > 0.7538544535636902,1.0,0.16326530612244897,76

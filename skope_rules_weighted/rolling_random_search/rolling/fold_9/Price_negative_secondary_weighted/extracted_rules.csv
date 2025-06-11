@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Energy_negative_secondary <= -40.898000717163086 and Exchange_FR_CH > 164.91600036621094 and Exchange_CH_DE_lag1 <= 294.67649841308594 and Exchange_CH_DE_lag1 > 26.684499740600586,1.0,0.2558139534883721,38
+Exchange_AT_CH > 19.100000381469727 and Energy_negative_secondary <= -40.898000717163086 and Exchange_FR_CH > 164.91600036621094 and Exchange_CH_DE_lag1 > 26.684499740600586,1.0,0.2558139534883721,22
+Cross_border_physical_flows_CH_IT <= 2455.5 and Energy_negative_secondary <= -0.007499999832361937 and Energy_negative_secondary > -1.2415000200271606 and Forecast_transfer_capacities_dayahead_AT_CH_lag1 > 950.0,0.9523809523809523,0.23255813953488372,400

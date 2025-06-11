@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Price_negative_secondary_lag1 <= -13.40500020980835 and Price_negative_tertiary_lag1 <= -32.19200038909912,1.0,0.3333333333333333,58
+Total System Imbalance > 309.73177337646484 and Price_negative_tertiary_lag1 <= -32.19200038909912,1.0,0.3333333333333333,60
+Price_negative_tertiary_lag1 <= -32.19200038909912 and CH_dayahead_price_lag1 <= 57.68000030517578,1.0,0.3333333333333333,52

@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Cross_border_physical_flows_FR_CH <= 2412.0 and Energy_positive_secondary > 23.79800033569336 and Price_gas_lag1 > 36.900001525878906 and renewable_energy_lag1 > 202.5 and aFRR p_lag1 <= 69.27253341674805,1.0,0.43333333333333335,142
+Energy_positive_secondary <= 23.79800033569336 and Energy_positive_secondary > 6.4039998054504395 and Exchange_DE_CH <= 324.03099060058594 and Price_positive_secondary_lag1 > 211.05999755859375 and CH_intraday_price <= 166.27999877929688 and CH_intraday_price > 129.99500274658203 and renewable_energy <= 1100.5,1.0,0.075,164
+Energy_positive_secondary <= 23.79800033569336 and Price_positive_secondary_lag1 > 219.04000091552734 and Energy_positive_secondary_lag1 > 0.21800000220537186 and CH_intraday_price <= 166.27999877929688 and renewable_energy > 1100.5,1.0,0.075,76

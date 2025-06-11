@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Total System Imbalance > -38.1673469543457 and Energy_negative_secondary <= -29.38350009918213 and Price_negative_secondary_lag1 <= 57.93499946594238 and Exchange_CH_FR_lag1 <= 113.87799835205078 and renewable_energy > 118.5,0.9354838709677419,0.48333333333333334,44
+Exchange_CH_AT <= 55.94999885559082 and Energy_negative_secondary <= -20.289499282836914 and Energy_negative_secondary > -29.38350009918213 and Price_negative_secondary_lag1 <= 14.444999933242798 and Cross_border_physical_flows_DE_CH_lag1 > 895.5,1.0,0.13333333333333333,44
+Energy_negative_secondary <= -20.289499282836914 and Energy_negative_secondary > -29.38350009918213 and Price_negative_secondary_lag1 <= 14.444999933242798 and CH_intraday_price_lag1 <= 119.5999984741211 and Cross_border_physical_flows_DE_CH_lag1 > 895.5,1.0,0.13333333333333333,32

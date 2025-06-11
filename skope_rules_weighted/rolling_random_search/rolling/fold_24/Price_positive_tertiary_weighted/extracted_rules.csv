@@ -1,0 +1,2 @@
+rule,precision,recall,support
+Cross_border_physical_flows_CH_IT <= 2483.5 and Energy_positive_tertiary > 6.125 and CH_dayahead_price_lag1 > 124.32500076293945 and CH_intraday_price_lag1 > 127.95000076293945 and Cross_border_physical_flows_IT_CH_lag1 <= 812.0,0.9047619047619048,0.4418604651162791,400

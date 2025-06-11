@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Forecast_transfer_capacities_dayahead_CH_IT > 2843.5 and Energy_positive_secondary > 26.66100025177002 and CH_intraday_price_lag1 > 130.625,1.0,0.5476190476190477,98
+Forecast_transfer_capacities_dayahead_CH_IT > 2843.5 and Energy_positive_secondary > 26.66100025177002 and renewable_energy_lag1 > 112.5,1.0,0.5476190476190477,106
+Energy_positive_secondary <= 26.66100025177002 and Energy_positive_secondary > 9.53350019454956 and Imbalance netting import_lag1 <= 51.13149452209473 and CH_intraday_price_lag1 > 177.71499633789062 and CH_intraday_price > 192.88999938964844,1.0,0.14285714285714285,400

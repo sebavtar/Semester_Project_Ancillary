@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Energy_positive_secondary > 37.1505012512207 and Exchange_CH_IT_lag1 <= 1091.8590087890625,1.0,0.4108527131782946,110
+Energy_positive_secondary > 37.1505012512207 and mFRR n_lag1 > -226.5,1.0,0.4108527131782946,140
+Energy_positive_secondary <= 37.1505012512207 and Energy_positive_secondary > 22.87150001525879 and FRCE p <= 6.5705015659332275 and Price_positive_secondary_lag1 > 172.62999725341797 and CH_dayahead_price_lag1 > 96.88500213623047 and Total System Imbalance_lag1 > -130.58987426757812,1.0,0.21705426356589147,400

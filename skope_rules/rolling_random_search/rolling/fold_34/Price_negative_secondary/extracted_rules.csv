@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Cross_border_physical_flows_AT_CH <= 1555.5 and Energy_negative_secondary <= -26.802000045776367 and FRCE p_lag1 <= 12.345109462738037 and Exchange_DE_CH_lag1 > 284.21800231933594,1.0,0.3902439024390244,104
+Exchange_AT_CH <= 392.5340118408203 and Energy_negative_secondary <= -26.802000045776367 and FRCE p_lag1 <= 12.345109462738037 and Exchange_DE_CH_lag1 > 284.21800231933594,1.0,0.3902439024390244,110
+Energy_negative_secondary <= -26.802000045776367 and Cross_border_physical_flows_AT_CH_lag1 <= 1704.5 and FRCE p_lag1 <= 12.345109462738037 and Exchange_DE_CH_lag1 > 284.21800231933594,1.0,0.3902439024390244,86

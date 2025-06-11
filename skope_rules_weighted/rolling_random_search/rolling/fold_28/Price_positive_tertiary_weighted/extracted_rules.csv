@@ -1,0 +1,4 @@
+rule,precision,recall,support
+aFRR p <= 147.11837768554688 and Total System Imbalance <= -149.14392852783203 and Price_positive_tertiary_lag1 > 151.00249481201172 and Energy_positive_tertiary > 14.875 and Cross_border_physical_flows_AT_CH_lag1 <= 496.5 and CH_dayahead_price > 97.48500061035156,1.0,0.45098039215686275,148
+Price_gas > 32.5 and aFRR n <= -6.480085611343384 and Price_positive_tertiary_lag1 <= 151.00249481201172 and Energy_positive_tertiary <= 158.75 and Energy_positive_tertiary > 3.875 and CH_dayahead_price_lag1 > 116.71500015258789 and CH_intraday_price_lag1 <= 139.3249969482422,1.0,0.058823529411764705,110
+Cross_border_physical_flows_DE_CH <= 1393.5 and Price_positive_tertiary_lag1 <= 151.00249481201172 and Energy_positive_tertiary > 158.75,1.0,0.058823529411764705,32

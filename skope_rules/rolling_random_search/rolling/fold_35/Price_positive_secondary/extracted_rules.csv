@@ -1,0 +1,2 @@
+rule,precision,recall,support
+Energy_positive_secondary > 23.199000358581543 and Price_positive_secondary_lag1 > 150.7249984741211 and CH_dayahead_price_lag1 > 80.12999725341797 and Forecast_transfer_capacities_dayahead_CH_DE_lag1 > 2450.0 and Exchange_AT_CH_lag1 <= 174.85950469970703,1.0,0.5263157894736842,300

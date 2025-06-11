@@ -1,0 +1,2 @@
+rule,precision,recall,support
+Price_negative_tertiary_lag1 > 150.69850158691406 and CH_intraday_price_lag1 > 165.53500366210938 and Energy_negative_tertiary <= -0.625 and Total System Imbalance_lag1 <= 159.72715759277344,1.0,0.27710843373493976,400

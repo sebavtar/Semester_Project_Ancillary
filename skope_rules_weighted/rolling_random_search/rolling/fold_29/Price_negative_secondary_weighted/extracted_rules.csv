@@ -1,0 +1,2 @@
+rule,precision,recall,support
+Energy_negative_secondary <= -10.167500019073486 and Price_negative_secondary_lag1 <= -8.974999904632568 and CH_intraday_price_lag1 <= 75.3650016784668 and FRCE p_lag1 <= 9.765894889831543,1.0,0.4107142857142857,300

@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Energy_positive_secondary > 25.49650001525879 and Price_positive_secondary_lag1 > 157.5250015258789 and Price_negative_tertiary_lag1 > -289.17799949645996 and Forecast_transfer_capacities_dayahead_FR_CH_lag1 > 2701.5 and Exchange_CH_AT_lag1 <= 39.75,1.0,0.44,86
+Forecast_transfer_capacities_dayahead_FR_CH > 2792.5 and Energy_positive_secondary > 25.49650001525879 and Price_positive_secondary_lag1 > 157.5250015258789 and Price_negative_tertiary_lag1 > -289.17799949645996 and Exchange_CH_AT_lag1 <= 39.75,1.0,0.44,68
+Forecast_transfer_capacities_dayahead_FR_CH > 2792.5 and Energy_positive_secondary > 25.49650001525879 and Price_positive_secondary_lag1 > 157.5250015258789 and Price_positive_tertiary_lag1 > -528.7949829101562 and Exchange_CH_AT_lag1 <= 39.75,1.0,0.44,84

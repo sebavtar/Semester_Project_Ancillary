@@ -1,0 +1,3 @@
+rule,precision,recall,support
+Cross_border_physical_flows_CH_IT <= 2483.5 and Exchange_AT_CH > 8.5 and Energy_positive_tertiary > 10.25 and CH_dayahead_price_lag1 > 125.56500244140625 and CH_intraday_price_lag1 > 127.20999908447266 and Cross_border_physical_flows_IT_CH_lag1 <= 812.0,1.0,0.38961038961038963,300
+Cross_border_physical_flows_CH_DE > 2612.5 and Imbalance netting export <= -26.1878604888916 and Energy_positive_tertiary > 1.375 and CH_intraday_price_lag1 <= 127.20999908447266 and CH_intraday_price <= 141.0500030517578 and Exchange_CH_AT_lag1 <= 75.93299865722656,1.0,0.06493506493506493,14

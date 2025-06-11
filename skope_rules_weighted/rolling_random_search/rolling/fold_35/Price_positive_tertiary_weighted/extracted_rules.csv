@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Cross_border_physical_flows_CH_AT <= 787.0 and Cross_border_physical_flows_CH_AT > 185.5 and Energy_positive_tertiary <= 112.375 and Energy_positive_tertiary > 8.875 and CH_dayahead_price_lag1 > 126.31499862670898,0.9696969696969697,0.3333333333333333,350
+Price_gas > 36.60000038146973 and Exchange_DE_CH > 58.90800094604492 and Energy_positive_tertiary > 112.375,1.0,0.28125,14
+Price_gas > 36.60000038146973 and Energy_positive_tertiary > 112.375 and CH_intraday_price > 91.48500061035156,1.0,0.28125,12

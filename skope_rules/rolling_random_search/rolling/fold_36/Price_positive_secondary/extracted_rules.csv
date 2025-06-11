@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Energy_positive_secondary > 22.852999687194824 and FRCE n <= -4.176002264022827 and Price_gas_lag1 <= 48.75 and Exchange_CH_DE_lag1 > 79.5109977722168,1.0,0.45112781954887216,196
+Energy_positive_secondary <= 22.852999687194824 and Price_gas_lag1 > 35.10000038146973 and CH_dayahead_price > 161.7249984741211 and aFRR n_lag1 > -80.87815475463867,1.0,0.09022556390977443,14
+Energy_positive_secondary > 39.638999938964844 and Exchange_CH_DE_lag1 <= 79.5109977722168,1.0,0.06015037593984962,400

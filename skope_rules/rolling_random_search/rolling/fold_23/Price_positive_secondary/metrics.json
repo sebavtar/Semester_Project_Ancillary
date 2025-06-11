@@ -1,0 +1,29 @@
+{
+  "regime": "rolling",
+  "target": "Price_positive_secondary",
+  "metrics": {
+    "precision": 1.0,
+    "recall": 0.8,
+    "f1": 0.888888888888889,
+    "auc": 0.9,
+    "mcc": 0.8916961092320141,
+    "confusion_matrix": [
+      [
+        163,
+        0
+      ],
+      [
+        1,
+        4
+      ]
+    ]
+  },
+  "train_window": [
+    "2023-06-04 00:00:00",
+    "2023-07-22 23:00:00"
+  ],
+  "test_window": [
+    "2023-07-23 00:00:00",
+    "2023-07-29 23:00:00"
+  ]
+}

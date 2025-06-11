@@ -1,0 +1,3 @@
+rule,precision,recall,support
+mFRR n <= -127.0 and Price_negative_tertiary_lag1 <= -16.26650047302246 and CH_intraday_price <= 1032.2000007629395,1.0,0.4864864864864865,122
+mFRR n > -127.0 and Energy_negative_secondary > -4.1875 and Price_negative_tertiary_lag1 <= -16.26650047302246 and renewable_energy_lag1 > 2654.0,1.0,0.10810810810810811,16

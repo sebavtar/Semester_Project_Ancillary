@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Forecast_transfer_capacities_dayahead_CH_IT <= 2215.0 and Energy_negative_secondary <= -10.749000072479248 and Price_negative_secondary_lag1 <= -29.84500026702881,1.0,0.2361111111111111,300
+Forecast_transfer_capacities_dayahead_CH_IT <= 2215.0 and Total System Imbalance > -137.4446144104004 and Energy_negative_secondary > -10.749000072479248 and Price_negative_secondary_lag1 <= -29.84500026702881 and CH_dayahead_price <= -5.56499981880188,1.0,0.1527777777777778,80
+Exchange_DE_CH > 140.31800079345703 and Energy_negative_secondary <= -23.433000564575195 and Price_negative_secondary_lag1 > -29.84500026702881 and CH_dayahead_price <= 79.86999893188477,1.0,0.1388888888888889,300

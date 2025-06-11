@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Imbalance netting export <= -0.895788311958313 and mFRR n <= -300.5,1.0,0.36363636363636365,12
+Forecast_transfer_capacities_dayahead_AT_CH <= 425.0 and mFRR n <= -300.5,1.0,0.36363636363636365,8
+mFRR n <= -300.5 and Forecast_transfer_capacities_dayahead_CH_FR_lag1 > 1000.0,1.0,0.36363636363636365,18

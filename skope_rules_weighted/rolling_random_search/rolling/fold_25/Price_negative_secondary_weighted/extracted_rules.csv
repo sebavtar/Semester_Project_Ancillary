@@ -1,0 +1,3 @@
+rule,precision,recall,support
+Energy_negative_secondary <= -23.56399917602539 and CH_intraday_price <= 44.795000076293945,1.0,0.23529411764705882,300
+aFRR n > -79.30352020263672 and Energy_negative_secondary <= -30.14349937438965 and CH_intraday_price_lag1 <= 77.86000061035156 and CH_intraday_price > 44.795000076293945,1.0,0.08823529411764706,148

@@ -1,0 +1,2 @@
+rule,precision,recall,support
+Exchange_CH_FR > 67.47699928283691 and Energy_positive_tertiary > 9.625 and CH_intraday_price_lag1 > 128.19000244140625 and Forecast_transfer_capacities_dayahead_CH_AT_lag1 > 575.0 and Total System Imbalance_lag1 <= 89.43088340759277 and Exchange_CH_FR_lag1 <= 385.3710021972656,0.9666666666666667,0.48333333333333334,2

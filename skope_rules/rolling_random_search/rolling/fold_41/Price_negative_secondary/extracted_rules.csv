@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Imbalance netting export <= -19.205955505371094 and FRCE p > 11.334933757781982 and Exchange_CH_FR <= 69.8025016784668 and Energy_negative_secondary <= -33.55000114440918,1.0,0.38181818181818183,56
+Energy_negative_secondary <= -21.493000030517578 and Energy_negative_secondary > -33.55000114440918 and Price_positive_secondary_lag1 <= 171.2699966430664 and Energy_negative_secondary_lag1 > -4.677000045776367 and Cross_border_physical_flows_DE_CH_lag1 > 589.0,1.0,0.16363636363636364,400
+Imbalance netting export > -19.205955505371094 and Energy_negative_secondary <= -33.55000114440918 and Energy_positive_tertiary_lag1 <= 20.625 and Exchange_FR_CH_lag1 > 484.9095001220703,1.0,0.05454545454545454,6

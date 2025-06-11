@@ -1,0 +1,3 @@
+rule,precision,recall,support
+Total System Imbalance <= -149.14392852783203 and Price_positive_tertiary_lag1 > 151.00249481201172 and Energy_positive_tertiary > 14.875 and CH_intraday_price_lag1 > 97.0999984741211 and Cross_border_physical_flows_AT_CH_lag1 <= 496.5,0.9787234042553191,0.45098039215686275,82
+Total System Imbalance <= -149.14392852783203 and Price_positive_tertiary_lag1 > 151.00249481201172 and Energy_positive_tertiary > 14.875 and Cross_border_physical_flows_AT_CH_lag1 <= 496.5 and CH_dayahead_price > 97.48500061035156,0.9787234042553191,0.45098039215686275,88

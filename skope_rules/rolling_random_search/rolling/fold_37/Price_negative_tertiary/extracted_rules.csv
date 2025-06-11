@@ -1,0 +1,2 @@
+rule,precision,recall,support
+Imbalance netting export <= -1.2244838774204254 and Price_negative_tertiary_lag1 <= -33.929500579833984,1.0,0.38461538461538464,400

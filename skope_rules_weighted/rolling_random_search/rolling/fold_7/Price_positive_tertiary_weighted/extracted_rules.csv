@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Price_gas > 49.85000038146973 and Energy_positive_tertiary > 124.625 and CH_intraday_price_lag1 > 142.77000427246094 and Exchange_CH_IT_lag1 > 190.76599884033203,1.0,0.2619047619047619,34
+Price_gas > 48.5 and Energy_positive_tertiary <= 124.625 and Energy_positive_tertiary > 14.125 and Energy_negative_tertiary_lag1 > -70.875 and CH_dayahead_price_lag1 > 164.59500122070312,1.0,0.1746031746031746,154
+Exchange_FR_CH <= 272.59449768066406 and Energy_positive_tertiary > 205.625 and CH_intraday_price_lag1 <= 142.77000427246094,1.0,0.06349206349206349,300

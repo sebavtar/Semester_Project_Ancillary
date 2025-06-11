@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Forecast_transfer_capacities_dayahead_CH_IT <= 1368.5 and Price_negative_secondary_lag1 <= -44.16499900817871 and Total System Imbalance_lag1 <= 319.9197540283203 and Exchange_IT_CH_lag1 > 18.126500129699707,1.0,0.2,20
+Forecast_transfer_capacities_dayahead_CH_IT <= 1368.5 and Price_negative_secondary_lag1 <= -44.16499900817871 and Energy_negative_tertiary > -56.75 and Exchange_CH_FR_lag1 > 4.446500062942505,1.0,0.2,12
+Energy_negative_secondary <= -27.84999942779541 and Price_negative_secondary_lag1 > -44.16499900817871 and RR n_lag1 > -90.0 and Exchange_CH_DE_lag1 <= 143.8280029296875 and Exchange_DE_CH_lag1 > 84.35900115966797,1.0,0.18,124

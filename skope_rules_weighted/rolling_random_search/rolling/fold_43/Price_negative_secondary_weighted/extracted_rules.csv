@@ -1,0 +1,4 @@
+rule,precision,recall,support
+Cross_border_physical_flows_FR_CH <= 3386.0 and Cross_border_physical_flows_FR_CH > 2143.5 and Energy_negative_secondary <= -33.46549987792969 and Exchange_IT_CH_lag1 > 20.82200050354004,1.0,0.4,6
+Price_gas > 41.39999961853027 and Cross_border_physical_flows_FR_CH > 2143.5 and Energy_negative_secondary <= -33.46549987792969 and Exchange_IT_CH_lag1 > 20.82200050354004,1.0,0.4,20
+Exchange_CH_AT <= 49.85000038146973 and Energy_negative_secondary <= -21.784500122070312 and Energy_negative_secondary > -33.46549987792969 and Price_negative_secondary_lag1 <= -7.940000057220459,1.0,0.13333333333333333,300
